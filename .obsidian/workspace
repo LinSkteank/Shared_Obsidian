@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "fsfs.md",
-            "mode": "source"
+            "file": "команды 2021-09-15.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fsfs.md",
+                "file": "команды 2021-09-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "6d74e9131d59c959",
   "lastOpenFiles": [
+    "команды 2021-09-15.md",
     "fsfs.md"
   ]
 }
