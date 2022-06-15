@@ -1,16 +1,17 @@
 {
   "main": {
-    "id": "055137dfab5b613d",
+    "id": "f1dcb096e85bac5c",
     "type": "split",
     "children": [
       {
-        "id": "6d74e9131d59c959",
+        "id": "b3f656859146c973",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "fsfs.md",
-            "mode": "source"
+            "file": "Inbox/Study/Programs/git/команды 2021-09-15.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -18,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "09390392ba85b5f3",
+    "id": "3c37571625af6444",
     "type": "split",
     "children": [
       {
-        "id": "111b273f47d98f17",
+        "id": "acfe4e374e7da6c5",
         "type": "tabs",
         "children": [
           {
-            "id": "8ba87482dcde7b09",
+            "id": "b11485189e815d63",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +35,12 @@
             }
           },
           {
-            "id": "aa47df3f36ffbc90",
+            "id": "d6673e3b20793eea",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,23 +53,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 222.50868225097656
   },
   "right": {
-    "id": "06f9ab397ec46edf",
+    "id": "7cab349224299db1",
     "type": "split",
     "children": [
       {
-        "id": "5700623f68550083",
+        "id": "1ed8fb2780fc1c7d",
         "type": "tabs",
         "children": [
           {
-            "id": "090a37e85965580f",
+            "id": "f933641e66ead233",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fsfs.md",
+                "file": "Inbox/Study/Programs/git/команды 2021-09-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,16 +79,98 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "bb349f825e9c1477",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inbox/Study/Programs/git/команды 2021-09-15.md"
+              }
+            }
+          },
+          {
+            "id": "c0ff189a2bbc8a2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Inbox/Study/Programs/git/команды 2021-09-15.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "08607c84a4a8ef04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "25dea610ca35ec52",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3ec1c27c76ec856",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1add24674ebe7612",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "1471b336c84c22f9",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "47da54ba7a776c99",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 100
   },
-  "active": "6d74e9131d59c959",
+  "active": "b3f656859146c973",
   "lastOpenFiles": [
-    "fsfs.md"
+    "Inbox/Study/Programs/git/команды 2021-09-15.md",
+    "Inbox/Study/Programs/git/Проблема с переводами строк Windows Linux.md",
+    "Inbox/Study/Programs/git/Алиас.md",
+    "Inbox/Study/Programs/git/git.md",
+    "Inbox/Study/Programs/linux/gentoo.md",
+    "Inbox/Study/Programs/termux/termux-desktop/README.md",
+    "Inbox/Study/Programs/termux/trouble.md",
+    "Inbox/Crypto/brownie py framework/commands 2021-09-21.md",
+    "Utility/Templates/Formatting/Code/code Git.md",
+    "Inbox/Study/Programs/linux/проблема с днс.md"
   ]
 }

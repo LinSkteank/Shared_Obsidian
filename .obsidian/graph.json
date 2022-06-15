@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Utility",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Journal",
+      "color": {
+        "a": 1,
+        "rgb": 16469539
+      }
+    },
+    {
+      "query": "tag:#📥️/📜️/🩳/🗿",
+      "color": {
+        "a": 1,
+        "rgb": 15597823
+      }
+    },
+    {
+      "query": "📥️/📜️/🩳/💻",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#📥️/📜️/💻/🕸",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 1.64205882352941,
+  "lineSizeMultiplier": 0.431470588235294,
+  "collapse-forces": false,
+  "centerStrength": 0.614705882352941,
+  "repelStrength": 20,
+  "linkStrength": 0.955882352941177,
+  "linkDistance": 500,
+  "scale": 0.09585637078991374,
+  "close": true
+}
