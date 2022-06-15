@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MarkDown/разметка.md",
+            "file": "git/ssh.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MarkDown/разметка.md",
+                "file": "git/ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MarkDown/разметка.md"
+                "file": "git/ssh.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MarkDown/разметка.md",
+                "file": "git/ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,15 +162,15 @@
   },
   "active": "c8ee09f9fd2b4ba5",
   "lastOpenFiles": [
+    "git/ssh.md",
     "MarkDown/разметка.md",
-    "команды 2021-09-15.md",
+    "git/команды 2021-09-15.md",
     "dsad.md",
     "MarkDown/git.md",
     "Untitled.md",
     "Inbox/Study/Programs/git/команды 2021-09-15.md",
     "Inbox/Study/Programs/git/Проблема с переводами строк Windows Linux.md",
     "Inbox/Study/Programs/git/Алиас.md",
-    "Inbox/Study/Programs/git/git.md",
-    "Inbox/Study/Programs/linux/gentoo.md"
+    "Inbox/Study/Programs/git/git.md"
   ]
 }
