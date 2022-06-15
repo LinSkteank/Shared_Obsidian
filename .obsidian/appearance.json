@@ -1,1 +1,10 @@
-{}
+{
+  "baseFontSize": 19,
+  "cssTheme": "",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "Bryans Gruvbox",
+    "links"
+  ],
+  "theme": "obsidian"
+}

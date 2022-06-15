@@ -1,3 +1,25 @@
 {
+<<<<<<< HEAD
   "promptDelete": false
+=======
+  "spellcheck": true,
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "сети/attachs",
+  "autoPairBrackets": true,
+  "smartIndentList": true,
+  "useTab": true,
+  "lineWrap": true,
+  "legacyEditor": false,
+  "livePreview": true
+>>>>>>> d9c954aaa6aeb9d603946199d985af4a3bc7e3bb
 }
