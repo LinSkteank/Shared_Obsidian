@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c8ee09f9fd2b4ba5",
+        "id": "8ce787001cea4373",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "git/команды 2021-09-15.md",
-            "mode": "preview",
-            "source": false
+            "file": "html/Теги.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/команды 2021-09-15.md",
+                "file": "html/Теги.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/команды 2021-09-15.md"
+                "file": "html/Теги.md"
               }
             }
           },
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/команды 2021-09-15.md",
+                "file": "html/Теги.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,13 +157,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 467.5,
+    "collapsed": true
   },
-  "active": "c8ee09f9fd2b4ba5",
+  "active": "8ce787001cea4373",
   "lastOpenFiles": [
-    "git/команды 2021-09-15.md",
+    "html/Теги.md",
     "MarkDown/разметка.md",
-    "git/ssh.md",
+    "команды 2021-09-15.md",
     "dsad.md",
     "MarkDown/git.md",
     "Untitled.md",
