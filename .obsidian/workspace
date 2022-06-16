@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "git/ssh.md",
-            "mode": "source",
+            "file": "git/команды 2021-09-15.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/ssh.md",
+                "file": "git/команды 2021-09-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/ssh.md"
+                "file": "git/команды 2021-09-15.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/ssh.md",
+                "file": "git/команды 2021-09-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,9 +162,9 @@
   },
   "active": "c8ee09f9fd2b4ba5",
   "lastOpenFiles": [
-    "git/ssh.md",
-    "MarkDown/разметка.md",
     "git/команды 2021-09-15.md",
+    "MarkDown/разметка.md",
+    "git/ssh.md",
     "dsad.md",
     "MarkDown/git.md",
     "Untitled.md",
