@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f095295b87fe8ab2",
+        "id": "cdaae804bb88c4c1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "html/WEB/HTML/structure html/body/редактирование текста/парные тэги/Тэг pre 2022-06-17.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "html/WEB/HTML/structure html/body/редактирование текста/парные тэги/Тэг pre 2022-06-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "html/WEB/HTML/structure html/body/редактирование текста/парные тэги/Тэг pre 2022-06-17.md"
-              }
+              "state": {}
             }
           },
           {
@@ -96,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "html/WEB/HTML/structure html/body/редактирование текста/парные тэги/Тэг pre 2022-06-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,17 +152,17 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "f095295b87fe8ab2",
+  "active": "cdaae804bb88c4c1",
   "lastOpenFiles": [
+    "Utility/MOCs/call-центр от яндекс.md",
+    "Utility/test/Untitled.md",
+    "Utility/test/Untitled 1.md",
+    "awdaw 2022-06-17.md",
+    "Untitled.md",
+    "html/Snippet css.md",
     "html/WEB/HTML/structure html/body/редактирование текста/парные тэги/Тэг pre 2022-06-17.md",
+    "html/WEB/HTML/structure html/body/редактирование текста/парные тэги/Теги sub и sup 2021-09-06.md",
     "html/WEB/HTML/structure html/body/списки/парные тэги/Теги dl, dt и dd, список описаний 2021-09-05.md",
-    "html/WEB/HTML/structure html/body/спец/картинки и прочее/Тег img 2021-09-06.md",
-    "html/WEB/HTML/structure html/body/редактирование текста/тэг br 2021-09-05.md",
-    "html/WEB/HTML/structure html/body/редактирование текста/тэг hr 2021-09-10.md",
-    "html/WEB/HTML/structure html/body/контейнеры, параграфы/парные тэги/тэг p 2021-09-05.md",
-    "html/WEB/HTML/structure html/body/редактирование текста/парные тэги/тэг p 2021-10-04.md",
-    "Фото/01 What is git rebase.svg",
-    "Фото/emmetsnippet.gif",
-    "html/WEB/HTML/structure html/body/навигация/парные тэги/тег a 2021-09-06.md"
+    "html/WEB/HTML/structure html/body/спец/картинки и прочее/Тег img 2021-09-06.md"
   ]
 }
