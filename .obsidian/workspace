@@ -9,13 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< Updated upstream
-            "file": "html/WEB/HTML/structure html/body/списки/парные тэги/Теги dl, dt и dd, список описаний 2021-09-05.md",
+            "file": "html/WEB/HTML/structure html/body/редактирование текста/парные тэги/Тэг pre 2022-06-17.md",
             "mode": "source",
-=======
-            "file": "vss/emmet.md",
-            "mode": "preview",
->>>>>>> Stashed changes
             "source": false
           }
         }
@@ -74,11 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "html/WEB/HTML/structure html/body/списки/парные тэги/Теги dl, dt и dd, список описаний 2021-09-05.md",
-=======
-                "file": "vss/emmet.md",
->>>>>>> Stashed changes
+                "file": "html/WEB/HTML/structure html/body/редактирование текста/парные тэги/Тэг pre 2022-06-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,11 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "html/WEB/HTML/structure html/body/списки/парные тэги/Теги dl, dt и dd, список описаний 2021-09-05.md"
-=======
-                "file": "vss/emmet.md"
->>>>>>> Stashed changes
+                "file": "html/WEB/HTML/structure html/body/редактирование текста/парные тэги/Тэг pre 2022-06-17.md"
               }
             }
           },
@@ -109,11 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "html/WEB/HTML/structure html/body/списки/парные тэги/Теги dl, dt и dd, список описаний 2021-09-05.md",
-=======
-                "file": "vss/emmet.md",
->>>>>>> Stashed changes
+                "file": "html/WEB/HTML/structure html/body/редактирование текста/парные тэги/Тэг pre 2022-06-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +162,7 @@
   },
   "active": "f095295b87fe8ab2",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
+    "html/WEB/HTML/structure html/body/редактирование текста/парные тэги/Тэг pre 2022-06-17.md",
     "html/WEB/HTML/structure html/body/списки/парные тэги/Теги dl, dt и dd, список описаний 2021-09-05.md",
     "html/WEB/HTML/structure html/body/спец/картинки и прочее/Тег img 2021-09-06.md",
     "html/WEB/HTML/structure html/body/редактирование текста/тэг br 2021-09-05.md",
@@ -188,19 +171,6 @@
     "html/WEB/HTML/structure html/body/редактирование текста/парные тэги/тэг p 2021-10-04.md",
     "Фото/01 What is git rebase.svg",
     "Фото/emmetsnippet.gif",
-    "html/WEB/HTML/structure html/body/навигация/парные тэги/тег a 2021-09-06.md",
-    "html/WEB/HTML moc.md"
-=======
-    "vss/emmet.md",
-    "git/команды 2021-09-15.md",
-    "MarkDown/разметка.md",
-    "git/ssh.md",
-    "dsad.md",
-    "MarkDown/git.md",
-    "Untitled.md",
-    "Inbox/Study/Programs/git/команды 2021-09-15.md",
-    "Inbox/Study/Programs/git/Проблема с переводами строк Windows Linux.md",
-    "Inbox/Study/Programs/git/Алиас.md"
->>>>>>> Stashed changes
+    "html/WEB/HTML/structure html/body/навигация/парные тэги/тег a 2021-09-06.md"
   ]
 }
