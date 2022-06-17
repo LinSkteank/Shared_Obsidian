@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "html/WEB/HTML/structure html/body/навигация/парные тэги/тэг nav 2021-09-05.md",
-            "mode": "preview",
+            "file": "html/Микроразметка.md",
+            "mode": "source",
             "backlinks": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "html/WEB/HTML/structure html/body/навигация/парные тэги/тэг nav 2021-09-05.md",
+                "file": "html/Микроразметка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "html/WEB/HTML/structure html/body/навигация/парные тэги/тэг nav 2021-09-05.md"
+                "file": "html/Микроразметка.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "html/WEB/HTML/structure html/body/навигация/парные тэги/тэг nav 2021-09-05.md",
+                "file": "html/Микроразметка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,10 +150,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 389.5,
+    "collapsed": true
   },
   "active": "cdaae804bb88c4c1",
   "lastOpenFiles": [
+    "html/Микроразметка.md",
     "html/WEB/HTML/structure html/body/навигация/парные тэги/тэг nav 2021-09-05.md",
     "html/WEB/HTML/structure html/body/контейнеры, параграфы/парные тэги/тэг arcicle 2021-09-05.md",
     "html/WEB/HTML/structure html/body/контейнеры, параграфы/парные тэги/тэг main 2021-09-05.md",
@@ -162,7 +164,6 @@
     "html/WEB/HTML/structure html/body/формы/тег keygen 2021-10-08.md",
     "html/WEB/HTML/structure html/body/формы/парные тэги/тэг textarea 2021-10-08.md",
     "html/WEB/HTML/structure html/body/формы/парные тэги/тэг form 2021-10-08.md",
-    "html/WEB/HTML/structure html/body/формы/парные тэги/тэг label 2021-10-08.md",
-    "html/WEB/HTML/structure html/head/meta/viewport 2022-06-17.md"
+    "html/WEB/HTML/structure html/body/формы/парные тэги/тэг label 2021-10-08.md"
   ]
 }
