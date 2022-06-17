@@ -1,17 +1,16 @@
 {
   "main": {
-    "id": "f1dcb096e85bac5c",
+    "id": "ed67b22fe4e2bd15",
     "type": "split",
     "children": [
       {
-        "id": "c8ee09f9fd2b4ba5",
+        "id": "0678355ace05b4ad",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "MarkDown/разметка.md",
-            "mode": "source",
-            "source": false
+            "mode": "preview"
           }
         }
       }
@@ -19,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3c37571625af6444",
+    "id": "a8664baf9290ae25",
     "type": "split",
     "children": [
       {
-        "id": "acfe4e374e7da6c5",
+        "id": "ad4abac6eb706df8",
         "type": "tabs",
         "children": [
           {
-            "id": "b11485189e815d63",
+            "id": "b9e94186228bdb36",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +34,12 @@
             }
           },
           {
-            "id": "d6673e3b20793eea",
+            "id": "46cd1e677ee7de10",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,18 +52,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 300
   },
   "right": {
-    "id": "7cab349224299db1",
+    "id": "a2ab9d94286dd9e2",
     "type": "split",
     "children": [
       {
-        "id": "1ed8fb2780fc1c7d",
+        "id": "6af2a052d5ea3707",
         "type": "tabs",
         "children": [
           {
-            "id": "f933641e66ead233",
+            "id": "2f61e99b2774008e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -81,29 +80,19 @@
             }
           },
           {
-            "id": "bb349f825e9c1477",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "MarkDown/разметка.md"
-              }
-            }
-          },
-          {
-            "id": "c0ff189a2bbc8a2a",
+            "id": "7e9fa7a942b2d6ea",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
                 "file": "MarkDown/разметка.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "08607c84a4a8ef04",
+            "id": "9a8d2b897095aab4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,31 +103,17 @@
             }
           },
           {
-            "id": "25dea610ca35ec52",
+            "id": "a664be5401a3a56e",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "MarkDown/разметка.md"
+              }
             }
           },
           {
-            "id": "d3ec1c27c76ec856",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "1add24674ebe7612",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "1471b336c84c22f9",
+            "id": "b35e2c2a6a473172",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -146,31 +121,39 @@
             }
           },
           {
-            "id": "47da54ba7a776c99",
+            "id": "331ddfd6cb1fb1df",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
               "state": {}
             }
+          },
+          {
+            "id": "343486dc02c28294",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "4abfba473cdf56b7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 300,
+    "collapsed": true
   },
-  "active": "c8ee09f9fd2b4ba5",
+  "active": "0678355ace05b4ad",
   "lastOpenFiles": [
     "MarkDown/разметка.md",
-    "команды 2021-09-15.md",
-    "dsad.md",
-    "MarkDown/git.md",
-    "Untitled.md",
-    "Inbox/Study/Programs/git/команды 2021-09-15.md",
-    "Inbox/Study/Programs/git/Проблема с переводами строк Windows Linux.md",
-    "Inbox/Study/Programs/git/Алиас.md",
-    "Inbox/Study/Programs/git/git.md",
-    "Inbox/Study/Programs/linux/gentoo.md"
+    "команды 2021-09-15.md"
   ]
 }
