@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5378b8792d2f6e29",
+        "id": "f095295b87fe8ab2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "html/Emmet syntax.md",
-            "mode": "source"
+            "file": "html/WEB/HTML/structure html/body/редактирование текста/парные тэги/Тэг pre 2022-06-17.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -39,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "pre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 425.5
   },
   "right": {
     "id": "7cab349224299db1",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "html/Emmet syntax.md",
+                "file": "html/WEB/HTML/structure html/body/редактирование текста/парные тэги/Тэг pre 2022-06-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "html/Emmet syntax.md"
+                "file": "html/WEB/HTML/structure html/body/редактирование текста/парные тэги/Тэг pre 2022-06-17.md"
               }
             }
           },
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "html/Emmet syntax.md",
+                "file": "html/WEB/HTML/structure html/body/редактирование текста/парные тэги/Тэг pre 2022-06-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,17 +160,17 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "5378b8792d2f6e29",
+  "active": "f095295b87fe8ab2",
   "lastOpenFiles": [
-    "html/Emmet syntax.md",
-    "html/Snippet css.md",
-    "html/Теги.md",
-    "Untitled 1.md",
-    "html/Emmet snippets.md",
-    "html/emmet.md",
-    "Untitled.md",
-    "git/команды 2021-09-15.md",
-    "vss/emmet.md",
-    "MarkDown/разметка.md"
+    "html/WEB/HTML/structure html/body/редактирование текста/парные тэги/Тэг pre 2022-06-17.md",
+    "html/WEB/HTML/structure html/body/списки/парные тэги/Теги dl, dt и dd, список описаний 2021-09-05.md",
+    "html/WEB/HTML/structure html/body/спец/картинки и прочее/Тег img 2021-09-06.md",
+    "html/WEB/HTML/structure html/body/редактирование текста/тэг br 2021-09-05.md",
+    "html/WEB/HTML/structure html/body/редактирование текста/тэг hr 2021-09-10.md",
+    "html/WEB/HTML/structure html/body/контейнеры, параграфы/парные тэги/тэг p 2021-09-05.md",
+    "html/WEB/HTML/structure html/body/редактирование текста/парные тэги/тэг p 2021-10-04.md",
+    "Фото/01 What is git rebase.svg",
+    "Фото/emmetsnippet.gif",
+    "html/WEB/HTML/structure html/body/навигация/парные тэги/тег a 2021-09-06.md"
   ]
 }
