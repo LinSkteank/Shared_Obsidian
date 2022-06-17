@@ -7,8 +7,13 @@
         "id": "cdaae804bb88c4c1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "html/WEB/HTML/structure html/& структура html 2021-08-25.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pre",
+                "query": "audio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 425.5
+    "width": 423.5
   },
   "right": {
     "id": "7cab349224299db1",
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "html/WEB/HTML/structure html/& структура html 2021-08-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "html/WEB/HTML/structure html/& структура html 2021-08-25.md"
+              }
             }
           },
           {
@@ -89,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "html/WEB/HTML/structure html/& структура html 2021-08-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,19 +159,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 389.5
   },
   "active": "cdaae804bb88c4c1",
   "lastOpenFiles": [
-    "Utility/MOCs/call-центр от яндекс.md",
-    "Utility/test/Untitled.md",
-    "Utility/test/Untitled 1.md",
-    "awdaw 2022-06-17.md",
-    "Untitled.md",
-    "html/Snippet css.md",
-    "html/WEB/HTML/structure html/body/редактирование текста/парные тэги/Тэг pre 2022-06-17.md",
-    "html/WEB/HTML/structure html/body/редактирование текста/парные тэги/Теги sub и sup 2021-09-06.md",
-    "html/WEB/HTML/structure html/body/списки/парные тэги/Теги dl, dt и dd, список описаний 2021-09-05.md",
-    "html/WEB/HTML/structure html/body/спец/картинки и прочее/Тег img 2021-09-06.md"
+    "html/WEB/HTML/structure html/& структура html 2021-08-25.md",
+    "html/WEB/& Структура сайта 2021-08-25.md",
+    "html/WEB/HTML/class 2021-10-04.md",
+    "html/WEB/HTML/structure html/body/видео/тэг video 2021-10-13.md",
+    "html/WEB/HTML/structure html/body/аудио/тэг audio 2021-10-13.md",
+    "html/WEB/HTML/structure html/атрибуты/Атрибут cotrnols 2022-06-17.md",
+    "html/WEB/HTML/structure html/атрибуты/Атрибут autoplay 2022-06-17.md",
+    "html/WEB/HTML/structure html/атрибуты/Атрибут title 2021-10-05.md",
+    "html/WEB/HTML/structure html/атрибуты/Атрибут target 2021-10-07.md",
+    "html/WEB/HTML/structure html/атрибуты/атрибут download 2021-09-06.md"
   ]
 }
