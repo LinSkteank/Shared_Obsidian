@@ -10,8 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "html/Emmet syntax.md",
-            "mode": "source",
-            "source": false
+            "mode": "source"
           }
         }
       }
@@ -53,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 346.5
   },
   "right": {
     "id": "7cab349224299db1",
