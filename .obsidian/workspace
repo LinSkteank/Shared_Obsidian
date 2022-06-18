@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5378b8792d2f6e29",
+        "id": "cdaae804bb88c4c1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "html/Теги.md",
-            "mode": "source"
+            "file": "html/Микроразметка.md",
+            "mode": "source",
+            "backlinks": true
           }
         }
       }
@@ -39,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "radio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 553.5
   },
   "right": {
     "id": "7cab349224299db1",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "html/Теги.md",
+                "file": "html/Микроразметка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "html/Теги.md"
+                "file": "html/Микроразметка.md"
               }
             }
           },
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "html/Теги.md",
+                "file": "html/Микроразметка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,7 +114,7 @@
             }
           },
           {
-            "id": "25dea610ca35ec52",
+            "id": "c573e9b209f60893",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -121,23 +122,7 @@
             }
           },
           {
-            "id": "d3ec1c27c76ec856",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "1add24674ebe7612",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "1471b336c84c22f9",
+            "id": "b7edc7d0a1aee457",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -145,31 +130,40 @@
             }
           },
           {
-            "id": "47da54ba7a776c99",
+            "id": "b17ad4281d42ebe2",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
               "state": {}
             }
+          },
+          {
+            "id": "ea9652a56b04cb18",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 389.5,
+    "collapsed": true
   },
-  "active": "5378b8792d2f6e29",
+  "active": "cdaae804bb88c4c1",
   "lastOpenFiles": [
-    "html/Теги.md",
-    "html/emmet.md",
-    "html/Emmet syntax.md",
-    "html/Snippet css.md",
-    "Untitled 1.md",
-    "html/Emmet snippets.md",
-    "Untitled.md",
-    "git/команды 2021-09-15.md",
-    "vss/emmet.md",
-    "MarkDown/разметка.md"
+    "html/Микроразметка.md",
+    "html/WEB/HTML/structure html/body/навигация/парные тэги/тэг nav 2021-09-05.md",
+    "html/WEB/HTML/structure html/body/контейнеры, параграфы/парные тэги/тэг arcicle 2021-09-05.md",
+    "html/WEB/HTML/structure html/body/контейнеры, параграфы/парные тэги/тэг main 2021-09-05.md",
+    "html/WEB/HTML/structure html/& структура html 2021-08-25.md",
+    "html/WEB/HTML/structure html/body/формы/поле ввода/тэг input 2021-10-08 1.md",
+    "html/WEB/HTML/structure html/body/формы/тег keygen 2021-10-08.md",
+    "html/WEB/HTML/structure html/body/формы/парные тэги/тэг textarea 2021-10-08.md",
+    "html/WEB/HTML/structure html/body/формы/парные тэги/тэг form 2021-10-08.md",
+    "html/WEB/HTML/structure html/body/формы/парные тэги/тэг label 2021-10-08.md"
   ]
 }
