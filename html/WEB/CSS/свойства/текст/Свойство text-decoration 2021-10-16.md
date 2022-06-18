@@ -33,3 +33,13 @@ text-decoration: [ blink || line-through || overline || underline ] | none | inh
 ==none== - Отменяет все эффекты, в том числе и подчеркивания у ссылок, которое задано по умолчанию.
 
 ==inherit== - Значение наследуется у родителя.
+
+
+
+<a href="#" style="text-decoration: none">Ссылка без подчёркивания</a>
+
+
+<span style="text-decoration: underline">Подчёркивания</span>
+
+<span style="text-decoration: overline">надстрелка</span>
+
