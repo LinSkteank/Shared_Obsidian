@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "html/WEB/CSS/CSS MOC.md",
+            "file": "html/WEB/CSS/свойства/цвет/Colors css 2021-10-16.md",
             "mode": "preview"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 553.5
   },
   "right": {
     "id": "7cab349224299db1",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "html/WEB/CSS/CSS MOC.md",
+                "file": "html/WEB/CSS/свойства/цвет/Colors css 2021-10-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "html/WEB/CSS/CSS MOC.md"
+                "file": "html/WEB/CSS/свойства/цвет/Colors css 2021-10-16.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "html/WEB/CSS/CSS MOC.md",
+                "file": "html/WEB/CSS/свойства/цвет/Colors css 2021-10-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,19 +149,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 389.5
   },
   "active": "4dda71c0ba8de29a",
   "lastOpenFiles": [
-    "html/WEB/CSS/CSS MOC.md",
-    "html/WEB/HTML/HTML moc.md",
-    "html/WEB/CSS/main/CSS 2021-11-03.md",
-    "html/WEB/CSS/main/& Разные типы селекторов 2021-08-25.md",
-    "html/WEB/CSS/main/& Основы CSS 2021-08-25.md",
-    "html/WEB/CSS/подключение css 2022-06-18.md",
-    "html/WEB/CSS/псевдоклассы/Псевдокласс hover 2021-10-26.md",
+    "html/WEB/CSS/свойства/цвет/Colors css 2021-10-16.md",
     "html/WEB/CSS/units/Единицы измерения длины в CSS 2021-10-16.md",
-    "html/WEB/CSS/units/Css переменные 2021-10-24.md",
-    "html/WEB/CSS/main/URL в CSS 2021-10-16.md"
+    "html/WEB/CSS/main/& блоки css 2021-08-25.md",
+    "html/WEB/CSS/свойства/Свойство opacity 2021-10-26.md",
+    "html/WEB/CSS/свойства/отступы,границы/Блочная модель 2022-06-18.md",
+    "html/WEB/CSS/свойства/отступы,границы/Свойство border 2021-10-16.md",
+    "html/WEB/CSS/свойства/отступы,границы/Свойство outline 2021-10-16.md",
+    "html/WEB/CSS/свойства/отступы,границы/свойство padding 2021-10-16.md",
+    "html/WEB/CSS/свойства/отступы,границы/Свойство margin 2021-08-25.md",
+    "html/WEB/CSS/свойства/позиционирование/свойства left, top, right и bottom 2021-10-17.md"
   ]
 }
