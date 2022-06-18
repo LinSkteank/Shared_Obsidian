@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "html/WEB/CSS/подключение css 2022-06-18.md",
-            "mode": "preview"
+            "file": "html/WEB/CSS/свойства/шрифты/Свойство font-variant 2022-06-18.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "html/WEB/CSS/подключение css 2022-06-18.md",
+                "file": "html/WEB/CSS/свойства/шрифты/Свойство font-variant 2022-06-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "html/WEB/CSS/подключение css 2022-06-18.md"
+                "file": "html/WEB/CSS/свойства/шрифты/Свойство font-variant 2022-06-18.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "html/WEB/CSS/подключение css 2022-06-18.md",
+                "file": "html/WEB/CSS/свойства/шрифты/Свойство font-variant 2022-06-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,15 +153,15 @@
   },
   "active": "4dda71c0ba8de29a",
   "lastOpenFiles": [
-    "html/WEB/CSS/подключение css 2022-06-18.md",
-    "html/WEB/CSS/псевдоклассы/Псевдокласс hover 2021-10-26.md",
+    "html/WEB/CSS/свойства/шрифты/Свойство font-variant 2022-06-18.md",
+    "html/WEB/CSS/свойства/шрифты/Свойство font-style 2021-10-16.md",
     "html/WEB/CSS/main/& Основы CSS 2021-08-25.md",
-    "html/WEB/CSS/main/CSS 2021-11-03.md",
     "html/WEB/CSS/CSS MOC.md",
-    "html/WEB/CSS/units/Единицы измерения длины в CSS 2021-10-16.md",
-    "html/WEB/CSS/units/Css переменные 2021-10-24.md",
-    "html/WEB/CSS/main/URL в CSS 2021-10-16.md",
-    "html/WEB/HTML/Теги.md",
-    "html/WEB/HTML/Микроразметка.md"
+    "html/WEB/CSS/main/CSS 2021-11-03.md",
+    "html/WEB/CSS/свойства/текст/Свойство text-align 2021-10-16.md",
+    "html/WEB/VSS/Snippet css.md",
+    "html/WEB/VSS/Emmet syntax.md",
+    "html/WEB/CSS/подключение css 2022-06-18.md",
+    "html/WEB/CSS/псевдоклассы/Псевдокласс hover 2021-10-26.md"
   ]
 }
