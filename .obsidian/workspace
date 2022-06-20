@@ -7,9 +7,10 @@
         "id": "1ceeb8297bbaa48a",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "attachs/photo_2022-06-15_19-34-56.jpg"
+            "file": "ПИСАТЬ СЮДА/dwa.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachs/photo_2022-06-15_19-34-56.jpg",
+                "file": "ПИСАТЬ СЮДА/dwa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachs/photo_2022-06-15_19-34-56.jpg"
+                "file": "ПИСАТЬ СЮДА/dwa.md"
               }
             }
           },
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachs/photo_2022-06-15_19-34-56.jpg",
+                "file": "ПИСАТЬ СЮДА/dwa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,6 +153,7 @@
   },
   "active": "1ceeb8297bbaa48a",
   "lastOpenFiles": [
+    "ПИСАТЬ СЮДА/dwa.md",
     "attachs/photo_2022-06-15_19-34-56.jpg",
     "attachs/Pasted image 20220615210954.png",
     "attachs/Pasted image 20220615210746.png",
@@ -160,7 +162,6 @@
     "attachs/01 What is git rebase.svg",
     "attachs/emmetsnippet.gif",
     "html/WEB/HTML/attachs/Pasted image 20220618214048.png",
-    "html/WEB/HTML/attachs/Pasted image 20220618214047.png",
-    "html/WEB/HTML/attachs/Pasted image 20220617211246.png"
+    "html/WEB/HTML/attachs/Pasted image 20220618214047.png"
   ]
 }
