@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d5a34a277f6a57b8",
+        "id": "684ebc21a35eb474",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ПИСАТЬ СЮДА/Относительное позиционирование (relative).md",
-            "mode": "source"
+            "file": "ПИСАТЬ СЮДА/Позиционирование в CSS 2022-06-20.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 363.5
   },
   "right": {
     "id": "7cab349224299db1",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ПИСАТЬ СЮДА/Относительное позиционирование (relative).md",
+                "file": "ПИСАТЬ СЮДА/Позиционирование в CSS 2022-06-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ПИСАТЬ СЮДА/Относительное позиционирование (relative).md"
+                "file": "ПИСАТЬ СЮДА/Позиционирование в CSS 2022-06-20.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ПИСАТЬ СЮДА/Относительное позиционирование (relative).md",
+                "file": "ПИСАТЬ СЮДА/Позиционирование в CSS 2022-06-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,34 +143,25 @@
               "type": "todo",
               "state": {}
             }
-          },
-          {
-            "id": "fca513deed838f82",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 389.5,
-    "collapsed": true
+    "width": 389.5
   },
-  "active": "d5a34a277f6a57b8",
+  "active": "684ebc21a35eb474",
   "lastOpenFiles": [
-    "ПИСАТЬ СЮДА/Относительное позиционирование (relative).md",
-    "ПИСАТЬ СЮДА/Фиксированное позиционирование (fixed).md",
-    "ПИСАТЬ СЮДА/z-index.md",
-    "ПИСАТЬ СЮДА/dwa.md",
-    "html/Микроразметка.md",
-    "html/WEB/HTML/structure html/body/навигация/парные тэги/тэг nav 2021-09-05.md",
-    "html/WEB/HTML/structure html/body/контейнеры, параграфы/парные тэги/тэг arcicle 2021-09-05.md",
-    "html/WEB/HTML/structure html/body/контейнеры, параграфы/парные тэги/тэг main 2021-09-05.md",
-    "html/WEB/HTML/structure html/& структура html 2021-08-25.md",
-    "html/WEB/HTML/structure html/body/формы/поле ввода/тэг input 2021-10-08 1.md"
+    "ПИСАТЬ СЮДА/Позиционирование в CSS 2022-06-20.md",
+    "html/WEB/CSS/свойства/позиционирование/свойства left, top, right и bottom 2021-10-17.md",
+    "html/WEB/CSS/свойства/позиционирование/свойство position 2021-10-17.md",
+    "attachs/photo_2022-06-15_19-34-56.jpg",
+    "attachs/Pasted image 20220615210954.png",
+    "attachs/Pasted image 20220615210746.png",
+    "attachs/Pasted image 20220615210650.png",
+    "attachs/Pasted image 20220615205327.png",
+    "attachs/01 What is git rebase.svg",
+    "attachs/emmetsnippet.gif"
   ]
 }
