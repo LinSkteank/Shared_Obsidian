@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4dda71c0ba8de29a",
+        "id": "1ceeb8297bbaa48a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "html/WEB/CSS/свойства/позиционирование/свойство position 2021-10-17.md",
-            "mode": "preview"
+            "file": "attachs/photo_2022-06-15_19-34-56.jpg"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "html/WEB/CSS/свойства/позиционирование/свойство position 2021-10-17.md",
+                "file": "attachs/photo_2022-06-15_19-34-56.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "html/WEB/CSS/свойства/позиционирование/свойство position 2021-10-17.md"
+                "file": "attachs/photo_2022-06-15_19-34-56.jpg"
               }
             }
           },
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "html/WEB/CSS/свойства/позиционирование/свойство position 2021-10-17.md",
+                "file": "attachs/photo_2022-06-15_19-34-56.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,17 +150,17 @@
     "direction": "horizontal",
     "width": 389.5
   },
-  "active": "4dda71c0ba8de29a",
+  "active": "1ceeb8297bbaa48a",
   "lastOpenFiles": [
-    "html/WEB/CSS/свойства/позиционирование/свойство position 2021-10-17.md",
-    "html/WEB/CSS/main/Переменные 2022-06-18.md",
-    "html/WEB/CSS/main/Медиа запросы 2022-06-18.md",
-    "html/WEB/CSS/main/URL в CSS 2021-10-16.md",
-    "html/WEB/CSS/свойства/анимация/подсвойства/Свойство transition-timing-function 2021-10-18.md",
-    "html/WEB/CSS/свойства/анимация/подсвойства/Свойство transition-property 2021-10-18.md",
-    "html/WEB/CSS/свойства/анимация/подсвойства/Свойство transition-duration 2021-10-18.md",
-    "html/WEB/CSS/свойства/анимация/подсвойства/Свойство transition-delay и animation-delay 2021-10-18.md",
-    "html/WEB/CSS/свойства/анимация/keyframes/@keyframes 2021-10-27.md",
-    "html/WEB/CSS/свойства/анимация/Свойство transition 2021-10-18.md"
+    "attachs/photo_2022-06-15_19-34-56.jpg",
+    "attachs/Pasted image 20220615210954.png",
+    "attachs/Pasted image 20220615210746.png",
+    "attachs/Pasted image 20220615210650.png",
+    "attachs/Pasted image 20220615205327.png",
+    "attachs/01 What is git rebase.svg",
+    "attachs/emmetsnippet.gif",
+    "html/WEB/HTML/attachs/Pasted image 20220618214048.png",
+    "html/WEB/HTML/attachs/Pasted image 20220618214047.png",
+    "html/WEB/HTML/attachs/Pasted image 20220617211246.png"
   ]
 }
