@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1ceeb8297bbaa48a",
+        "id": "684ebc21a35eb474",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ПИСАТЬ СЮДА/dwa.md",
-            "mode": "source"
+            "file": "ПИСАТЬ СЮДА/Позиционирование в CSS 2022-06-20.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 553.5
+    "width": 363.5
   },
   "right": {
     "id": "7cab349224299db1",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ПИСАТЬ СЮДА/dwa.md",
+                "file": "ПИСАТЬ СЮДА/Позиционирование в CSS 2022-06-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ПИСАТЬ СЮДА/dwa.md"
+                "file": "ПИСАТЬ СЮДА/Позиционирование в CSS 2022-06-20.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ПИСАТЬ СЮДА/dwa.md",
+                "file": "ПИСАТЬ СЮДА/Позиционирование в CSS 2022-06-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,17 +151,17 @@
     "direction": "horizontal",
     "width": 389.5
   },
-  "active": "1ceeb8297bbaa48a",
+  "active": "684ebc21a35eb474",
   "lastOpenFiles": [
-    "ПИСАТЬ СЮДА/dwa.md",
+    "ПИСАТЬ СЮДА/Позиционирование в CSS 2022-06-20.md",
+    "html/WEB/CSS/свойства/позиционирование/свойства left, top, right и bottom 2021-10-17.md",
+    "html/WEB/CSS/свойства/позиционирование/свойство position 2021-10-17.md",
     "attachs/photo_2022-06-15_19-34-56.jpg",
     "attachs/Pasted image 20220615210954.png",
     "attachs/Pasted image 20220615210746.png",
     "attachs/Pasted image 20220615210650.png",
     "attachs/Pasted image 20220615205327.png",
     "attachs/01 What is git rebase.svg",
-    "attachs/emmetsnippet.gif",
-    "html/WEB/HTML/attachs/Pasted image 20220618214048.png",
-    "html/WEB/HTML/attachs/Pasted image 20220618214047.png"
+    "attachs/emmetsnippet.gif"
   ]
 }
