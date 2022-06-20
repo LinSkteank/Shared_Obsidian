@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "684ebc21a35eb474",
+        "id": "45579bf67d6bcf01",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ПИСАТЬ СЮДА/Позиционирование в CSS 2022-06-20.md",
-            "mode": "preview"
+            "file": "ПИСАТЬ СЮДА/Относительное позиционирование (relative) 2022-06-20.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "radio",
+                "query": "tag:#tags",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ПИСАТЬ СЮДА/Позиционирование в CSS 2022-06-20.md",
+                "file": "ПИСАТЬ СЮДА/Относительное позиционирование (relative) 2022-06-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ПИСАТЬ СЮДА/Позиционирование в CSS 2022-06-20.md"
+                "file": "ПИСАТЬ СЮДА/Относительное позиционирование (relative) 2022-06-20.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ПИСАТЬ СЮДА/Позиционирование в CSS 2022-06-20.md",
+                "file": "ПИСАТЬ СЮДА/Относительное позиционирование (relative) 2022-06-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,17 +151,17 @@
     "direction": "horizontal",
     "width": 389.5
   },
-  "active": "684ebc21a35eb474",
+  "active": "45579bf67d6bcf01",
   "lastOpenFiles": [
+    "ПИСАТЬ СЮДА/Относительное позиционирование (relative) 2022-06-20.md",
     "ПИСАТЬ СЮДА/Позиционирование в CSS 2022-06-20.md",
+    "ПИСАТЬ СЮДА/z-index.md",
+    "ПИСАТЬ СЮДА/1primer.html.md",
+    "ПИСАТЬ СЮДА/Фиксированное позиционирование (fixed).md",
     "html/WEB/CSS/свойства/позиционирование/свойства left, top, right и bottom 2021-10-17.md",
     "html/WEB/CSS/свойства/позиционирование/свойство position 2021-10-17.md",
     "attachs/photo_2022-06-15_19-34-56.jpg",
     "attachs/Pasted image 20220615210954.png",
-    "attachs/Pasted image 20220615210746.png",
-    "attachs/Pasted image 20220615210650.png",
-    "attachs/Pasted image 20220615205327.png",
-    "attachs/01 What is git rebase.svg",
-    "attachs/emmetsnippet.gif"
+    "attachs/Pasted image 20220615210746.png"
   ]
 }
