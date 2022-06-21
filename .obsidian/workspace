@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "d8f7efbf915c1c02",
+    "type": "split",
+    "children": [
+      {
+        "id": "bea37cdb76ee03e2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ПИСАТЬ СЮДА/Блочные и строчные элементы/Строчно-блочные элементы.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a23a6b6abdcc10d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b11e55f603a0c063",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d63277f36e90fee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cfc0599777cd0f69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "<td>",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d208cf5ee775dc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dc3fb3a9053ad83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6812993d841fb6cc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "131a228c2bdba5f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ПИСАТЬ СЮДА/Блочные и строчные элементы/Строчно-блочные элементы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c55da5a8be24cbe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ПИСАТЬ СЮДА/Блочные и строчные элементы/Строчно-блочные элементы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04347da085b450ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "add20482ee2d4c1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ПИСАТЬ СЮДА/Блочные и строчные элементы/Строчно-блочные элементы.md"
+              }
+            }
+          },
+          {
+            "id": "a7be51abd2b6e1cb",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a51bcbd3d154798",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "4dc7e206c2597e51",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bea37cdb76ee03e2",
+  "lastOpenFiles": [
+    "ПИСАТЬ СЮДА/Блочные и строчные элементы/Строчно-блочные элементы.md",
+    "ПИСАТЬ СЮДА/Блочные и строчные элементы/vertical-align.md",
+    "ПИСАТЬ СЮДА/Блочные и строчные элементы/white-space.md",
+    "ПИСАТЬ СЮДА/Блочные и строчные элементы/Строчные элементы.md",
+    "ПИСАТЬ СЮДА/Блочные и строчные элементы/Блочные элементы.md",
+    "ПИСАТЬ СЮДА/Блочная модель/box-sizing.md",
+    "ПИСАТЬ СЮДА/Блочная модель/Размеры блока.md",
+    "ПИСАТЬ СЮДА/Блочная модель/Схлопывающиеся margin.md",
+    "ПИСАТЬ СЮДА/Блочная модель/overflow.md",
+    "ПИСАТЬ СЮДА/Блочная модель/border.md"
+  ]
+}
