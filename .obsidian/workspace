@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1c76d47ee28f853c",
+        "id": "c0ee6fa9b592a646",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "html/htmlattachs/1.md",
+            "file": "html/WEB/CSS/Flex/Создание флексбоксов 2022-06-24.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "html/htmlattachs/1.md",
+                "file": "html/WEB/CSS/Flex/Создание флексбоксов 2022-06-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "html/htmlattachs/1.md",
+                "file": "html/WEB/CSS/Flex/Создание флексбоксов 2022-06-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "html/htmlattachs/1.md"
+                "file": "html/WEB/CSS/Flex/Создание флексбоксов 2022-06-24.md"
               }
             }
           },
@@ -151,17 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c76d47ee28f853c",
+  "active": "c0ee6fa9b592a646",
   "lastOpenFiles": [
-    "html/htmlattachs/1.md",
     "html/WEB/CSS/Flex/Создание флексбоксов 2022-06-24.md",
     "html/WEB/CSS/Flex/flex 2022-06-24 2022-06-24.md",
+    "html/WEB/CSS/attachs/Pasted image 20210825154115.png",
+    "html/htmlattachs/primer2.html.md",
+    "html/htmlattachs/1.md",
     "Utility/Templates/HTML.md",
     "Utility/Templates/dataview.md",
     "html/WEB/CSS/подключение css 2022-06-18.md",
     "html/WEB/CSS/CSS MOC.md",
-    "MarkDown/разметка.md",
-    "html/aa.md",
-    "html/primer.md"
+    "MarkDown/разметка.md"
   ]
 }
