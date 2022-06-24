@@ -27,5 +27,6 @@
   "nldates-obsidian",
   "templater-obsidian",
   "flashcards-obsidian",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-static-file-server"
 ]
