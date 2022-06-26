@@ -28,6 +28,7 @@ order: <число>
 ```
 
 ### Пример
+##### code
 ```html
 <!DOCTYPE html>
 <html>
@@ -67,4 +68,7 @@ order: <число>
  </body>
 </html>
 ```
+
+##### result
+<iframe src="http://localhost:50000/order_original.html" style="background: white; border: none; width: 500px; height: 500px;"/></iframe>
 

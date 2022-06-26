@@ -41,6 +41,7 @@ __3) wrap-reverse__
 Флексы выстраиваются в несколько строк, в направлении, противоположном flex-direction.
 
 ### Пример
+##### code
 ```html
 <!DOCTYPE html> 
 <html> 
@@ -66,10 +67,13 @@ __3) wrap-reverse__
  </head> 
  <body> 
   <ul class="flex-container">
-   <li class="flex-item"><img src="image/aquaria1.jpg" alt=""></li>
-   <li class="flex-item"><img src="image/aquaria2.jpg" alt=""></li>
-   <li class="flex-item"><img src="image/aquaria3.jpg" alt=""></li>
+   <li class="flex-item"><img src="https://webref.ru/example/image/aquaria1.jpg" alt=""></li>
+   <li class="flex-item"><img src="https://webref.ru/example/image/aquaria2.jpg" alt=""></li>
+   <li class="flex-item"><img src="https://webref.ru/example/image/aquaria3.jpg" alt=""></li>
   </ul>
  </body> 
 </html>
 ```
+
+##### result
+<iframe src="http://localhost:50000/flex-wrap.html" style="background: white; border: none; width: 500px; height: 500px;"/></iframe>

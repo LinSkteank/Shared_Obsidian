@@ -53,6 +53,7 @@ __6) stretch__
 Элемент растягивается таким образом, чтобы занять всё свободное пространство контейнера по поперечной оси.
 
 ### Пример
+##### code
 ```html
 <!DOCTYPE html>
 <html>
@@ -97,4 +98,7 @@ __6) stretch__
  </body>
 </html>
 ```
+
+##### result
+<iframe src="http://localhost:50000/align-self.html" style="background: white; border: none; width: 500px; height: 500px;"/></iframe>
 

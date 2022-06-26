@@ -76,6 +76,7 @@ align-content: flex-start | flex-end | center |
 </table>
 
 ### Пример
+##### code
 ```html
 <!DOCTYPE html>
 <html>
@@ -109,3 +110,6 @@ align-content: flex-start | flex-end | center |
   </div>
  </body>
 ```
+
+##### result
+<iframe src="http://localhost:50000/align-content.html" style="background: white; border: none; width: 500px; height: 500px;"/></iframe>
