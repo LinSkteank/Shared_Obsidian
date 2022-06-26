@@ -1,1 +1,0 @@
-<iframe src="obsidian://SUntitled"></iframe>

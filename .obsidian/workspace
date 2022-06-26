@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "html/WEB/CSS/Flex/Создание флексбоксов 2022-06-24.md",
+            "file": "html/WEB/CSS/Flex/Макет сайта на флексбоксах 2022-06-24.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 532
   },
   "right": {
     "id": "7d208cf5ee775dc0",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "html/WEB/CSS/Flex/Создание флексбоксов 2022-06-24.md",
+                "file": "html/WEB/CSS/Flex/Макет сайта на флексбоксах 2022-06-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "html/WEB/CSS/Flex/Создание флексбоксов 2022-06-24.md",
+                "file": "html/WEB/CSS/Flex/Макет сайта на флексбоксах 2022-06-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "html/WEB/CSS/Flex/Создание флексбоксов 2022-06-24.md"
+                "file": "html/WEB/CSS/Flex/Макет сайта на флексбоксах 2022-06-24.md"
               }
             }
           },
@@ -153,15 +153,15 @@
   },
   "active": "c0ee6fa9b592a646",
   "lastOpenFiles": [
+    "html/WEB/CSS/Flex/Макет сайта на флексбоксах 2022-06-24.md",
     "html/WEB/CSS/Flex/Создание флексбоксов 2022-06-24.md",
+    "html/WEB/CSS/Flex/Untitled.md",
     "html/WEB/CSS/Flex/flex 2022-06-24 2022-06-24.md",
-    "html/WEB/CSS/attachs/Pasted image 20210825154115.png",
-    "html/htmlattachs/primer2.html.md",
+    "html/WEB/web-projects/css_основы/использование CSS 2021-08-25.md",
     "html/htmlattachs/1.md",
-    "Utility/Templates/HTML.md",
-    "Utility/Templates/dataview.md",
-    "html/WEB/CSS/подключение css 2022-06-18.md",
-    "html/WEB/CSS/CSS MOC.md",
-    "MarkDown/разметка.md"
+    "Utility/other/♻️ Flows.md",
+    "Utility/other/💳️ Kanban.md",
+    "Utility/other/🕓️ Timeline.md",
+    "Utility/other/daw.md"
   ]
 }
