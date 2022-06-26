@@ -37,6 +37,7 @@ __2) <размер>__
 Задаёт размер элемента в px, mm, pt или в процентах вдоль главной оси. При этом размер вычисляется относительно родителя. Отрицательное значение недопустимо.
 
 ### Пример
+##### code
 ```html
 <!DOCTYPE html>
 <html>
@@ -84,3 +85,6 @@ __2) <размер>__
  </body>
 </html>
 ```
+
+##### result
+<iframe src="http://localhost:50000/flex-basis.html" style="background: white; border: none; width: 500px; height: 500px;"/></iframe>

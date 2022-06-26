@@ -36,6 +36,7 @@ __none__
 Соответствует значению 0 0 auto.
 
 ### Пример
+##### code
 ```html
 <!DOCTYPE html>
 <html>
@@ -65,3 +66,6 @@ __none__
  </body> 
 </html>
 ```
+
+##### result
+<iframe src="http://localhost:50000/flex_original.html" style="background: white; border: none; width: 500px; height: 500px;"/></iframe>

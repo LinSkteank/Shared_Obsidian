@@ -45,6 +45,7 @@ __4) column-reverse__
 Главная ось располагается вертикально, но меняется положение начальной и конечной точек и ось направлена снизу вверх.
 
 ### Пример
+##### code
 ```html
 <!DOCTYPE html>
 <html>
@@ -63,11 +64,14 @@ __4) column-reverse__
  </head>
  <body>
   <ul class="flex-row">
-   <li><img src="image/thumb1.jpg" alt=""></li>
-   <li><img src="image/thumb2.jpg" alt=""></li>
-   <li><img src="image/thumb3.jpg" alt=""></li>
+   <li><img src="https://webref.ru/example/image/thumb1.jpg" alt=""></li>
+   <li><img src="https://webref.ru/example/image/thumb2.jpg" alt=""></li>
+   <li><img src="https://webref.ru/example/image/thumb3.jpg" alt=""></li>
   </ul> 
  </body>
 </html>
 ```
+
+##### result
+<iframe src="http://localhost:50000/flex-direction.html" style="background: white; border: none; width: 500px; height: 500px;"/></iframe>
 

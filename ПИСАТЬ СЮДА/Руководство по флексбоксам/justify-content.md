@@ -54,6 +54,7 @@ __6) space-evenly__
 Флексы распределяются так, что расстояние между любыми двумя соседними элементами, а также перед первым и после последнего, было одинаковым.
 
 ### Пример
+##### code
 ```html
 <!DOCTYPE html>
 <html>
@@ -107,4 +108,8 @@ __6) space-evenly__
  </body>
 </html>
 ```
+
+##### result
+<iframe src="http://localhost:50000/justify-content.html" style="background: white; border: none; width: 500px; height: 500px;"/></iframe>
+
 
