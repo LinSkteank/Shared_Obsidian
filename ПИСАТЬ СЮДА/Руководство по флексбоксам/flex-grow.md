@@ -26,6 +26,7 @@
 Принимаются целые (1, 2, 3,…) или дробные числа (например: 0.6). Отрицательные значения игнорируются.
 
 ### Пример
+##### code
 ```html
 <!DOCTYPE html> 
 <html> 
@@ -67,3 +68,6 @@
  </body> 
 </html>
 ```
+
+##### result
+<iframe src="http://localhost:50000/flex-grow.html" style="background: white; border: none; width: 500px; height: 500px;"/></iframe>

@@ -8,14 +8,15 @@
 ### Значения
 Выражение представляет собой комбинацию значений размеров и следующих знаков математических действий.
 
--   + — сложение (width: calc(20px + 20px));
--   - — вычитание (padding: calc(10% - 10px););
--   * — умножение (height: calc(20%*2);)
--   / — деление. На ноль делить запрещено (width: calc(100%/3);).
+-   `+` — сложение (width: calc(20px + 20px));
+-   `-` — вычитание (padding: calc(10% - 10px););
+-   `*` — умножение (height: calc(20%*2);)
+-   `/` — деление. На ноль делить запрещено (width: calc(100%/3);).
 
 __Знаки плюс и минус должны отбиваться пробелами с двух сторон.__
 
 ### Пример
+##### code
 ```html
 <!DOCTYPE html>
 <html>
@@ -25,8 +26,8 @@ __Знаки плюс и минус должны отбиваться пробе
   <style>		
    div {
     border: 1px solid #000;
-    height: 200px;
-    background: url(/example/image/figure.jpg) no-repeat;
+    height: 500px;
+    background: url(https://i1.sndcdn.com/artworks-sUZuSm54AvHM5DzC-sRJf4A-t500x500.jpg) no-repeat;
     background-position: calc(100% - 20px) 0;
    }
   </style>
@@ -36,3 +37,6 @@ __Знаки плюс и минус должны отбиваться пробе
  </body>
 </html>
 ```
+
+##### result
+<iframe src="http://localhost:50000/calc().html" style="background: white; border: none; width: 500px; height: 500px;"/></iframe>

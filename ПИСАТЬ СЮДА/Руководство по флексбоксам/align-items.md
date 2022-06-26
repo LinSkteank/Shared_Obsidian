@@ -64,6 +64,7 @@ align-items: flex-start | flex-end | center | baseline | stretch
 </table>
 
 ### Пример
+##### code
 ```html
 <!DOCTYPE html>
 <html>
@@ -104,4 +105,7 @@ align-items: flex-start | flex-end | center | baseline | stretch
  </body>
 </html>
 ```
+
+##### result
+<iframe src="http://localhost:50000/align-items.html" style="background: white; border: none; width: 500px; height: 500px;"/></iframe>
 
