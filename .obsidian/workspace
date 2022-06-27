@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "395264ed6efbd8d1",
+        "id": "daea921637df5353",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ПИСАТЬ СЮДА/JS/Назначение переменной.md",
-            "mode": "source"
+            "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "<td>",
+                "query": "before  и after 2021-10-16",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 395
   },
   "right": {
     "id": "7d208cf5ee775dc0",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ПИСАТЬ СЮДА/JS/Назначение переменной.md",
+                "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ПИСАТЬ СЮДА/JS/Назначение переменной.md",
+                "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ПИСАТЬ СЮДА/JS/Назначение переменной.md"
+                "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах.md"
               }
             }
           },
@@ -144,24 +144,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "395264ed6efbd8d1",
+  "active": "daea921637df5353",
   "lastOpenFiles": [
-    "ПИСАТЬ СЮДА/JS/Назначение переменной.md",
-    "ПИСАТЬ СЮДА/JS/Строки.md",
-    "ПИСАТЬ СЮДА/JS/NaN.md",
-    "ПИСАТЬ СЮДА/JS/Арифметические операции.md",
-    "ПИСАТЬ СЮДА/JS/Инструкции (Statements).md",
-    "ПИСАТЬ СЮДА/JS/Коменнтарии.md",
-    "ПИСАТЬ СЮДА/JS/Console.log().md",
-    "ПИСАТЬ СЮДА/Относительное позиционирование (relative) 2022-06-20.md",
-    "ПИСАТЬ СЮДА/Позиционирование в CSS 2022-06-20.md",
-    "ПИСАТЬ СЮДА/Липкое позиционирование (sticky).md"
+    "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах.md",
+    "html/WEB/CSS/псевдоклассы/псевдокласс before 2022-06-27.md",
+    "html/WEB/CSS/псевдоклассы/псевдокласс after 2022-06-27.md",
+    "ПИСАТЬ СЮДА/Руководство по флексбоксам/align-content.md",
+    "Excalidraw/Drawing 2022-06-27 00.27.07.excalidraw.md",
+    "html/WEB/CSS/псевдоклассы/редактирование текста/first-letter 2021-10-16.md",
+    "html/WEB/CSS/псевдоклассы/редактирование текста/first-child 2021-10-16.md",
+    "html/WEB/CSS/псевдоклассы/псевдокласс nth-child 2021-10-07.md",
+    "html/WEB/CSS/псевдоклассы/Псевдокласс hover 2021-10-26.md",
+    "html/WEB/CSS/псевдоклассы/псевдокласс content 2022-06-27.md"
   ]
 }
