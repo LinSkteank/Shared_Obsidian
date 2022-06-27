@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Всплывающая подсказка</title>
+  <style>
+   [data-tooltip] {
+    position: relative; /* Относительное позиционирование */
+   }
+   /* Выводим треугольник */
+   [data-tooltip]:hover::before {
+    content: '';
+    position: absolute;
+    top: 1.4em; left: 20px;
+    width: 0; height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid #3989c9;
+   }
+   /* Выводим саму подсказку */
+   [data-tooltip]:hover::after {
+    content: attr(data-tooltip); /* Выводим текст */
+    position: absolute; /* Абсолютное позиционирование */
+    width: 400px; /* Ширина подсказки */
+    left: 0; top: 2em; /* Положение подсказки */
+    background: #3989c9; /* Синий цвет фона */
+    color: #fff; /* Цвет текста */
+    padding: 0.5em; /* Поля вокруг текста */
+    border-radius: 5px; /* Скругляем уголки */
+   }
+  </style>
+ </head>
+ <body>
+  <p>Текст до строки.</p>
+  <p data-tooltip="Всплывающая подсказка сообщает о чём-то многозначном и полезном...">
+   Наведи сюда курсор.</p>
+  <p>Текст после строки.</p>
+ </body>
+</html>
