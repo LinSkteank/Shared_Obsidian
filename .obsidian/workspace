@@ -1,66 +1,29 @@
 {
   "main": {
-    "id": "d8f7efbf915c1c02",
+    "id": "4093f6a1d8133515",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "6d218039664a083c",
-=======
-<<<<<<< HEAD
-        "id": "c0ee6fa9b592a646",
-=======
-        "id": "b52238cba356908e",
->>>>>>> refs/remotes/origin/main
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-<<<<<<< HEAD
-        "id": "e97fcfa16d61e9e9",
-=======
-        "id": "6d218039664a083c",
->>>>>>> a3c1615dbc0dd6765caddae550a264619b386770
->>>>>>> refs/remotes/origin/main
+        "id": "66db7b493a31469b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-<<<<<<< HEAD
-            "file": "html/WEB/CSS/Flex/Flex исползование 2022-06-26.md",
-            "mode": "preview"
-=======
-<<<<<<< HEAD
-            "file": "ПИСАТЬ СЮДА/Блочные и строчные элементы/1) Блочные элементы.md",
-=======
-            "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах.md",
->>>>>>> a3c1615dbc0dd6765caddae550a264619b386770
-            "mode": "source"
->>>>>>> refs/remotes/origin/main
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a23a6b6abdcc10d3",
+    "id": "546aa735beae565e",
     "type": "split",
     "children": [
       {
-        "id": "b11e55f603a0c063",
+        "id": "7a40632f14081b97",
         "type": "tabs",
         "children": [
           {
-            "id": "5d63277f36e90fee",
+            "id": "435468c88fbeeb0e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,12 +31,12 @@
             }
           },
           {
-            "id": "cfc0599777cd0f69",
+            "id": "486496447ccce44b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "display",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,18 +49,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 532
+    "width": 300
   },
   "right": {
-    "id": "7d208cf5ee775dc0",
+    "id": "b55c150390028ada",
     "type": "split",
     "children": [
       {
-        "id": "6dc3fb3a9053ad83",
+        "id": "714cc7f44db93e6c",
         "type": "tabs",
         "children": [
           {
-            "id": "6812993d841fb6cc",
+            "id": "72de51d3597153e7",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -105,20 +68,11 @@
             }
           },
           {
-            "id": "131a228c2bdba5f5",
+            "id": "1d8b0939304d6790",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "html/WEB/CSS/Flex/Flex исползование 2022-06-26.md",
-=======
-<<<<<<< HEAD
-                "file": "ПИСАТЬ СЮДА/Блочные и строчные элементы/1) Блочные элементы.md",
-=======
-                "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах.md",
->>>>>>> a3c1615dbc0dd6765caddae550a264619b386770
->>>>>>> refs/remotes/origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,27 +84,18 @@
             }
           },
           {
-            "id": "9c55da5a8be24cbe",
+            "id": "17b2bcfc468d7815",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "html/WEB/CSS/Flex/Flex исползование 2022-06-26.md",
-=======
-<<<<<<< HEAD
-                "file": "ПИСАТЬ СЮДА/Блочные и строчные элементы/1) Блочные элементы.md",
-=======
-                "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах.md",
->>>>>>> a3c1615dbc0dd6765caddae550a264619b386770
->>>>>>> refs/remotes/origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "04347da085b450ba",
+            "id": "941057566eee2c28",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -161,25 +106,15 @@
             }
           },
           {
-            "id": "add20482ee2d4c1c",
+            "id": "f58fbbc30619208f",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "html/WEB/CSS/Flex/Flex исползование 2022-06-26.md"
-=======
-<<<<<<< HEAD
-                "file": "ПИСАТЬ СЮДА/Блочные и строчные элементы/1) Блочные элементы.md"
-=======
-                "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах.md"
->>>>>>> a3c1615dbc0dd6765caddae550a264619b386770
->>>>>>> refs/remotes/origin/main
-              }
+              "state": {}
             }
           },
           {
-            "id": "a7be51abd2b6e1cb",
+            "id": "64ac61323e63751f",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -187,7 +122,7 @@
             }
           },
           {
-            "id": "0a51bcbd3d154798",
+            "id": "e6f3a2386edb1353",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -195,7 +130,7 @@
             }
           },
           {
-            "id": "4dc7e206c2597e51",
+            "id": "ab593fa9ab046391",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -209,41 +144,6 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "e97fcfa16d61e9e9",
-=======
-<<<<<<< HEAD
-  "active": "c0ee6fa9b592a646",
-  "lastOpenFiles": [
-    "ПИСАТЬ СЮДА/Блочные и строчные элементы/1) Блочные элементы.md",
-    "ПИСАТЬ СЮДА/Руководство по флексбоксам/8) Направление флексбоксов.md",
-    "git/команды 2021-09-15.md",
-    "ПИСАТЬ СЮДА/done/Абсолютное позиционирование.md",
-    "ПИСАТЬ СЮДА/done/Нормальное позиционирование.md",
-    "Pasted image 20220620194947.png",
-    "Pasted image 20220620194955.png",
-    "Pasted image 20220620195037.png",
-    "Untitled 2022-06-24.md",
-    "README.md"
-=======
-  "active": "6d218039664a083c",
->>>>>>> refs/remotes/origin/main
-  "lastOpenFiles": [
-    "html/WEB/CSS/Flex/Flex исползование 2022-06-26.md",
-    "html/WEB/CSS/подключение css 2022-06-18.md",
-    "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах.md",
-    "ПИСАТЬ СЮДА/z-index.md",
-<<<<<<< HEAD
-    "ПИСАТЬ СЮДА/after.md",
-    "html/WEB/CSS/свойства/спец/Свойство display 2021-10-16.md",
-    "ПИСАТЬ СЮДА/done/8) Направление флексбоксов.md",
-    "ПИСАТЬ СЮДА/done/Нормальное позиционирование.md",
-    "ПИСАТЬ СЮДА/Блочные и строчные элементы/1) Блочные элементы.md",
-    "ПИСАТЬ СЮДА/Блочные и строчные элементы/2) Строчные элементы.md"
-=======
-    "ПИСАТЬ СЮДА/Руководство по флексбоксам/align-items.md",
-    "ПИСАТЬ СЮДА/Руководство по флексбоксам/align-content.md"
->>>>>>> a3c1615dbc0dd6765caddae550a264619b386770
->>>>>>> refs/remotes/origin/main
-  ]
+  "active": "66db7b493a31469b",
+  "lastOpenFiles": []
 }
