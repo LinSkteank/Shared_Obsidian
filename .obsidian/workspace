@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "4093f6a1d8133515",
+    "id": "5318aa9dc939bbd3",
     "type": "split",
     "children": [
       {
-        "id": "b997c4a1b1c19e70",
+        "id": "7b190901eed9ecd8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ПИСАТЬ СЮДА/done/Свойства/Свойство writing-mode 2022-06-28.md",
-            "mode": "source"
+            "file": "ПИСАТЬ СЮДА/done/Revu/Вложенные флекс-контейнеры 2022-06-27.md",
+            "mode": "preview"
           }
         }
       }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "546aa735beae565e",
+    "id": "6fc6857f1ed910da",
     "type": "split",
     "children": [
       {
-        "id": "7a40632f14081b97",
+        "id": "15853d585eea9292",
         "type": "tabs",
         "children": [
           {
-            "id": "435468c88fbeeb0e",
+            "id": "39b0fa755a086bac",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "486496447ccce44b",
+            "id": "d94d4298730b7264",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,18 +52,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 475.5
   },
   "right": {
-    "id": "b55c150390028ada",
+    "id": "651f79c66cb79529",
     "type": "split",
     "children": [
       {
-        "id": "714cc7f44db93e6c",
+        "id": "bab9fbbc6373161e",
         "type": "tabs",
         "children": [
           {
-            "id": "72de51d3597153e7",
+            "id": "d240a2c2ab1d4fb6",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -71,12 +71,12 @@
             }
           },
           {
-            "id": "1d8b0939304d6790",
+            "id": "5439f713b2888a00",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ПИСАТЬ СЮДА/done/Свойства/Свойство writing-mode 2022-06-28.md",
+                "file": "ПИСАТЬ СЮДА/done/Revu/Вложенные флекс-контейнеры 2022-06-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,19 +88,19 @@
             }
           },
           {
-            "id": "17b2bcfc468d7815",
+            "id": "2d70b35ec610244b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ПИСАТЬ СЮДА/done/Свойства/Свойство writing-mode 2022-06-28.md",
+                "file": "ПИСАТЬ СЮДА/done/Revu/Вложенные флекс-контейнеры 2022-06-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "941057566eee2c28",
+            "id": "daf4616d9675a02b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -111,17 +111,17 @@
             }
           },
           {
-            "id": "f58fbbc30619208f",
+            "id": "f362587089a02cac",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "ПИСАТЬ СЮДА/done/Свойства/Свойство writing-mode 2022-06-28.md"
+                "file": "ПИСАТЬ СЮДА/done/Revu/Вложенные флекс-контейнеры 2022-06-27.md"
               }
             }
           },
           {
-            "id": "64ac61323e63751f",
+            "id": "f433e1a476a1169d",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -129,7 +129,7 @@
             }
           },
           {
-            "id": "e6f3a2386edb1353",
+            "id": "d7e87be93dff96df",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "ab593fa9ab046391",
+            "id": "794573bcd3b81ff7",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -151,17 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b997c4a1b1c19e70",
+  "active": "7b190901eed9ecd8",
   "lastOpenFiles": [
-    "ПИСАТЬ СЮДА/done/Свойства/Свойство writing-mode 2022-06-28.md",
-    "ПИСАТЬ СЮДА/done/Revu/Направление флексбоксов 2022-06-27.md",
-    "ПИСАТЬ СЮДА/done/Revu/Макет сайта на флексбоксах 2022-06-27.md",
-    "ПИСАТЬ СЮДА/done/Revu/Выравнивание элементов форм 2022-06-27.md",
-    "ПИСАТЬ СЮДА/done/Revu/Выравнивание с помощью флексбоксов 2022-06-27.md",
     "ПИСАТЬ СЮДА/done/Revu/Вложенные флекс-контейнеры 2022-06-27.md",
     "ПИСАТЬ СЮДА/done/Revu/Адаптивный макет на флексбоксах 2022-06-27.md",
-    "ПИСАТЬ СЮДА/done/Свойства/Свойство place-content 2022-06-27.md",
-    "ПИСАТЬ СЮДА/done/Свойства/Свойство order 2022-06-28.md",
-    "ПИСАТЬ СЮДА/done/Свойства/Свойство flex-wrap 2022-06-28.md"
+    "html/WEB/CSS/Flex/flex 2022-06-24.md",
+    "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах 2022-06-27.md",
+    "html/WEB/CSS/свойства/позиционирование/Свойство z-index 2021-10-17.md",
+    "html/WEB/CSS/Flex/Flex исползование 2022-06-26.md",
+    "ПИСАТЬ СЮДА/done/3) Вложенные флекс-контейнеры.md",
+    "html/WEB/CSS/CSS MOC.md",
+    "Utility/other/Редактирование.md",
+    "Utility/other/Без названия123i.md"
   ]
 }
