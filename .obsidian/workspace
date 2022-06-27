@@ -4,47 +4,13 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "6d218039664a083c",
-=======
-<<<<<<< HEAD
-        "id": "c0ee6fa9b592a646",
-=======
-        "id": "b52238cba356908e",
->>>>>>> refs/remotes/origin/main
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-<<<<<<< HEAD
-        "id": "e97fcfa16d61e9e9",
-=======
-        "id": "6d218039664a083c",
->>>>>>> a3c1615dbc0dd6765caddae550a264619b386770
->>>>>>> refs/remotes/origin/main
+        "id": "395264ed6efbd8d1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "html/WEB/CSS/Flex/Flex исползование 2022-06-26.md",
-            "mode": "preview"
-=======
-<<<<<<< HEAD
-            "file": "ПИСАТЬ СЮДА/Блочные и строчные элементы/1) Блочные элементы.md",
-=======
-            "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах.md",
->>>>>>> a3c1615dbc0dd6765caddae550a264619b386770
+            "file": "ПИСАТЬ СЮДА/JS/Назначение переменной.md",
             "mode": "source"
->>>>>>> refs/remotes/origin/main
           }
         }
       }
@@ -73,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "display",
+                "query": "<td>",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 532
+    "width": 278.5
   },
   "right": {
     "id": "7d208cf5ee775dc0",
@@ -110,15 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "html/WEB/CSS/Flex/Flex исползование 2022-06-26.md",
-=======
-<<<<<<< HEAD
-                "file": "ПИСАТЬ СЮДА/Блочные и строчные элементы/1) Блочные элементы.md",
-=======
-                "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах.md",
->>>>>>> a3c1615dbc0dd6765caddae550a264619b386770
->>>>>>> refs/remotes/origin/main
+                "file": "ПИСАТЬ СЮДА/JS/Назначение переменной.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,15 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "html/WEB/CSS/Flex/Flex исползование 2022-06-26.md",
-=======
-<<<<<<< HEAD
-                "file": "ПИСАТЬ СЮДА/Блочные и строчные элементы/1) Блочные элементы.md",
-=======
-                "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах.md",
->>>>>>> a3c1615dbc0dd6765caddae550a264619b386770
->>>>>>> refs/remotes/origin/main
+                "file": "ПИСАТЬ СЮДА/JS/Назначение переменной.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,15 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "html/WEB/CSS/Flex/Flex исползование 2022-06-26.md"
-=======
-<<<<<<< HEAD
-                "file": "ПИСАТЬ СЮДА/Блочные и строчные элементы/1) Блочные элементы.md"
-=======
-                "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах.md"
->>>>>>> a3c1615dbc0dd6765caddae550a264619b386770
->>>>>>> refs/remotes/origin/main
+                "file": "ПИСАТЬ СЮДА/JS/Назначение переменной.md"
               }
             }
           },
@@ -209,41 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "e97fcfa16d61e9e9",
-=======
-<<<<<<< HEAD
-  "active": "c0ee6fa9b592a646",
+  "active": "395264ed6efbd8d1",
   "lastOpenFiles": [
-    "ПИСАТЬ СЮДА/Блочные и строчные элементы/1) Блочные элементы.md",
-    "ПИСАТЬ СЮДА/Руководство по флексбоксам/8) Направление флексбоксов.md",
-    "git/команды 2021-09-15.md",
-    "ПИСАТЬ СЮДА/done/Абсолютное позиционирование.md",
-    "ПИСАТЬ СЮДА/done/Нормальное позиционирование.md",
-    "Pasted image 20220620194947.png",
-    "Pasted image 20220620194955.png",
-    "Pasted image 20220620195037.png",
-    "Untitled 2022-06-24.md",
-    "README.md"
-=======
-  "active": "6d218039664a083c",
->>>>>>> refs/remotes/origin/main
-  "lastOpenFiles": [
-    "html/WEB/CSS/Flex/Flex исползование 2022-06-26.md",
-    "html/WEB/CSS/подключение css 2022-06-18.md",
-    "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах.md",
-    "ПИСАТЬ СЮДА/z-index.md",
-<<<<<<< HEAD
-    "ПИСАТЬ СЮДА/after.md",
-    "html/WEB/CSS/свойства/спец/Свойство display 2021-10-16.md",
-    "ПИСАТЬ СЮДА/done/8) Направление флексбоксов.md",
-    "ПИСАТЬ СЮДА/done/Нормальное позиционирование.md",
-    "ПИСАТЬ СЮДА/Блочные и строчные элементы/1) Блочные элементы.md",
-    "ПИСАТЬ СЮДА/Блочные и строчные элементы/2) Строчные элементы.md"
-=======
-    "ПИСАТЬ СЮДА/Руководство по флексбоксам/align-items.md",
-    "ПИСАТЬ СЮДА/Руководство по флексбоксам/align-content.md"
->>>>>>> a3c1615dbc0dd6765caddae550a264619b386770
->>>>>>> refs/remotes/origin/main
+    "ПИСАТЬ СЮДА/JS/Назначение переменной.md",
+    "ПИСАТЬ СЮДА/JS/Строки.md",
+    "ПИСАТЬ СЮДА/JS/NaN.md",
+    "ПИСАТЬ СЮДА/JS/Арифметические операции.md",
+    "ПИСАТЬ СЮДА/JS/Инструкции (Statements).md",
+    "ПИСАТЬ СЮДА/JS/Коменнтарии.md",
+    "ПИСАТЬ СЮДА/JS/Console.log().md",
+    "ПИСАТЬ СЮДА/Относительное позиционирование (relative) 2022-06-20.md",
+    "ПИСАТЬ СЮДА/Позиционирование в CSS 2022-06-20.md",
+    "ПИСАТЬ СЮДА/Липкое позиционирование (sticky).md"
   ]
 }
