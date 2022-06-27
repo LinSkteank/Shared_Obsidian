@@ -15,7 +15,7 @@ cssclass:
 
 # place-content
 
-Сокращённое свойство place-content одновременно устанавливает значения свойств [[Свойство align-content 2022-06-27|align-content]] и [[Свойство justify-content 2022-06-27|justify-content]].
+Сокращённое свойство place-content одновременно устанавливает значения свойств [[Свойство align-content 2022-06-27|align-content]] и [[Свойство justify-content 2022-06-27|justify-content]]. ^970875
 
 ### Краткая информация
 <table>
@@ -41,9 +41,14 @@ cssclass:
 
 ### Синтаксис
 ```css
-place-content: align-content justify-content?
+place-content: align-content justify-content;
 ```
 
 ### Значения
-Если второго значения нет, то первое значение используется сразу для двух свойств, но при условии, что значение является допустимым для того и другого свойства.
+
+[[Свойство align-content 2022-06-27|align-content ]]
+
+[[Свойство justify-content 2022-06-27|justify-content]]
+
+*Если второго значения нет, то первое значение используется сразу для двух свойств, но при условии, что значение является допустимым для того и другого свойства.*
 
