@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7ae0fe690121df03",
+        "id": "b997c4a1b1c19e70",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ПИСАТЬ СЮДА/done/Revu/Создание медиа-объектов 2022-06-27.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "858fe570df7721b6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Utility/other/Редактирование.md",
+            "file": "ПИСАТЬ СЮДА/done/Свойства/Свойство writing-mode 2022-06-28.md",
             "mode": "source"
           }
         }
@@ -87,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ПИСАТЬ СЮДА/done/Revu/Создание медиа-объектов 2022-06-27.md",
+                "file": "ПИСАТЬ СЮДА/done/Свойства/Свойство writing-mode 2022-06-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ПИСАТЬ СЮДА/done/Revu/Создание медиа-объектов 2022-06-27.md",
+                "file": "ПИСАТЬ СЮДА/done/Свойства/Свойство writing-mode 2022-06-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ПИСАТЬ СЮДА/done/Revu/Создание медиа-объектов 2022-06-27.md"
+                "file": "ПИСАТЬ СЮДА/done/Свойства/Свойство writing-mode 2022-06-28.md"
               }
             }
           },
@@ -162,17 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7ae0fe690121df03",
+  "active": "b997c4a1b1c19e70",
   "lastOpenFiles": [
-    "ПИСАТЬ СЮДА/done/Revu/Создание медиа-объектов 2022-06-27.md",
-    "шаблон для HTML CSS 2022-06-27.md",
-    "ПИСАТЬ СЮДА/Revu/Направление флексбоксов 2022-06-27.md",
-    "ПИСАТЬ СЮДА/Revu/Макет сайта на флексбоксах 2022-06-27.md",
-    "ПИСАТЬ СЮДА/Revu/Выравнивание элементов форм 2022-06-27.md",
-    "ПИСАТЬ СЮДА/done/Свойства/Свойство flex-direction 2022-06-27.md",
-    "ПИСАТЬ СЮДА/done/Свойства/Cвойство flex 2022-06-27.md",
-    "Utility/Templates/палка.md",
-    "Utility/other/Редактирование.md",
-    "ПИСАТЬ СЮДА/done/Bruh/Адаптивный макет на флексбоксах 2022-06-27.md"
+    "ПИСАТЬ СЮДА/done/Свойства/Свойство writing-mode 2022-06-28.md",
+    "ПИСАТЬ СЮДА/done/Revu/Направление флексбоксов 2022-06-27.md",
+    "ПИСАТЬ СЮДА/done/Revu/Макет сайта на флексбоксах 2022-06-27.md",
+    "ПИСАТЬ СЮДА/done/Revu/Выравнивание элементов форм 2022-06-27.md",
+    "ПИСАТЬ СЮДА/done/Revu/Выравнивание с помощью флексбоксов 2022-06-27.md",
+    "ПИСАТЬ СЮДА/done/Revu/Вложенные флекс-контейнеры 2022-06-27.md",
+    "ПИСАТЬ СЮДА/done/Revu/Адаптивный макет на флексбоксах 2022-06-27.md",
+    "ПИСАТЬ СЮДА/done/Свойства/Свойство place-content 2022-06-27.md",
+    "ПИСАТЬ СЮДА/done/Свойства/Свойство order 2022-06-28.md",
+    "ПИСАТЬ СЮДА/done/Свойства/Свойство flex-wrap 2022-06-28.md"
   ]
 }
