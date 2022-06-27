@@ -1,15 +1,37 @@
 {
   "main": {
-    "id": "5318aa9dc939bbd3",
+    "id": "4093f6a1d8133515",
     "type": "split",
     "children": [
       {
-        "id": "e398227bedf4303e",
+        "id": "87951db19bd8b279",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах 2022-06-27.md",
+            "file": "ПИСАТЬ СЮДА/Revu/Макет сайта на флексбоксах 2022-06-27.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "5fa5e635d00c9a2d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "шаблон для HTML CSS 2022-06-27.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "66db7b493a31469b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Utility/other/Редактирование.md",
             "mode": "source"
           }
         }
@@ -18,15 +40,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6fc6857f1ed910da",
+    "id": "546aa735beae565e",
     "type": "split",
     "children": [
       {
-        "id": "15853d585eea9292",
+        "id": "7a40632f14081b97",
         "type": "tabs",
         "children": [
           {
-            "id": "39b0fa755a086bac",
+            "id": "435468c88fbeeb0e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +56,7 @@
             }
           },
           {
-            "id": "d94d4298730b7264",
+            "id": "486496447ccce44b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,18 +74,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 300
   },
   "right": {
-    "id": "651f79c66cb79529",
+    "id": "b55c150390028ada",
     "type": "split",
     "children": [
       {
-        "id": "bab9fbbc6373161e",
+        "id": "714cc7f44db93e6c",
         "type": "tabs",
         "children": [
           {
-            "id": "d240a2c2ab1d4fb6",
+            "id": "72de51d3597153e7",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -71,12 +93,12 @@
             }
           },
           {
-            "id": "5439f713b2888a00",
+            "id": "1d8b0939304d6790",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах 2022-06-27.md",
+                "file": "ПИСАТЬ СЮДА/Revu/Макет сайта на флексбоксах 2022-06-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,19 +110,19 @@
             }
           },
           {
-            "id": "2d70b35ec610244b",
+            "id": "17b2bcfc468d7815",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах 2022-06-27.md",
+                "file": "ПИСАТЬ СЮДА/Revu/Макет сайта на флексбоксах 2022-06-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "daf4616d9675a02b",
+            "id": "941057566eee2c28",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -111,17 +133,17 @@
             }
           },
           {
-            "id": "f362587089a02cac",
+            "id": "f58fbbc30619208f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах 2022-06-27.md"
+                "file": "ПИСАТЬ СЮДА/Revu/Макет сайта на флексбоксах 2022-06-27.md"
               }
             }
           },
           {
-            "id": "f433e1a476a1169d",
+            "id": "64ac61323e63751f",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -129,7 +151,7 @@
             }
           },
           {
-            "id": "d7e87be93dff96df",
+            "id": "e6f3a2386edb1353",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -137,7 +159,7 @@
             }
           },
           {
-            "id": "794573bcd3b81ff7",
+            "id": "ab593fa9ab046391",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -151,17 +173,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e398227bedf4303e",
+  "active": "87951db19bd8b279",
   "lastOpenFiles": [
-    "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах 2022-06-27.md",
-    "html/WEB/CSS/свойства/позиционирование/Свойство z-index 2021-10-17.md",
-    "html/WEB/CSS/Flex/Flex исползование 2022-06-26.md",
-    "ПИСАТЬ СЮДА/done/3) Вложенные флекс-контейнеры.md",
-    "html/WEB/CSS/CSS MOC.md",
+    "ПИСАТЬ СЮДА/Revu/Макет сайта на флексбоксах 2022-06-27.md",
+    "шаблон для HTML CSS 2022-06-27.md",
     "Utility/other/Редактирование.md",
+    "ПИСАТЬ СЮДА/done/3) Вложенные флекс-контейнеры.md",
     "Utility/other/Без названия123i.md",
-    "Utility/other/Tags.md",
-    "Excalidraw/Drawing 2022-06-27 00.27.07.excalidraw.md",
-    "шаблон для HTML CSS 2022-06-27.md"
+    "Utility/other/♻️ Flows.md",
+    "Utility/other/💳️ Kanban.md",
+    "Utility/other/🕓️ Timeline.md"
   ]
 }
