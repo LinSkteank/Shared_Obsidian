@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах 2022-06-27.md",
-            "mode": "source"
+            "file": "ПИСАТЬ СЮДА/done/Bruh/Вложенные флекс-контейнеры 2022-06-27.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах 2022-06-27.md",
+                "file": "ПИСАТЬ СЮДА/done/Bruh/Вложенные флекс-контейнеры 2022-06-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах 2022-06-27.md",
+                "file": "ПИСАТЬ СЮДА/done/Bruh/Вложенные флекс-контейнеры 2022-06-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах 2022-06-27.md"
+                "file": "ПИСАТЬ СЮДА/done/Bruh/Вложенные флекс-контейнеры 2022-06-27.md"
               }
             }
           },
@@ -153,15 +153,15 @@
   },
   "active": "e398227bedf4303e",
   "lastOpenFiles": [
+    "ПИСАТЬ СЮДА/done/Bruh/Вложенные флекс-контейнеры 2022-06-27.md",
+    "шаблон для HTML CSS 2022-06-27.md",
+    "html/WEB/& Структура сайта 2021-08-25.md",
+    "html/WEB/CSS/main/& Разные типы селекторов 2021-08-25.md",
     "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах 2022-06-27.md",
-    "html/WEB/CSS/свойства/позиционирование/Свойство z-index 2021-10-17.md",
+    "html/WEB/CSS/Flex/FLEX MOC.md",
     "html/WEB/CSS/Flex/Flex исползование 2022-06-26.md",
-    "ПИСАТЬ СЮДА/done/3) Вложенные флекс-контейнеры.md",
-    "html/WEB/CSS/CSS MOC.md",
-    "Utility/other/Редактирование.md",
-    "Utility/other/Без названия123i.md",
-    "Utility/other/Tags.md",
-    "Excalidraw/Drawing 2022-06-27 00.27.07.excalidraw.md",
-    "шаблон для HTML CSS 2022-06-27.md"
+    "html/WEB/CSS/Flex/flex 2022-06-24.md",
+    "html/WEB/CSS/OOP/Специфичность в CSS 2021-10-16.md",
+    "html/WEB/CSS/OOP/Каскад в CSS 2021-10-16.md"
   ]
 }
