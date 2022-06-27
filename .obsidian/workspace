@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ПИСАТЬ СЮДА/done/Bruh/Вложенные флекс-контейнеры 2022-06-27.md",
+            "file": "ПИСАТЬ СЮДА/done/Свойства/Свойство flex-direction 2022-06-27.md",
             "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "9e358bd906878e71",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ПИСАТЬ СЮДА/Руководство по флексбоксам/align-content.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ПИСАТЬ СЮДА/done/Bruh/Вложенные флекс-контейнеры 2022-06-27.md",
+                "file": "ПИСАТЬ СЮДА/Руководство по флексбоксам/align-content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ПИСАТЬ СЮДА/done/Bruh/Вложенные флекс-контейнеры 2022-06-27.md",
+                "file": "ПИСАТЬ СЮДА/Руководство по флексбоксам/align-content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ПИСАТЬ СЮДА/done/Bruh/Вложенные флекс-контейнеры 2022-06-27.md"
+                "file": "ПИСАТЬ СЮДА/Руководство по флексбоксам/align-content.md"
               }
             }
           },
@@ -151,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e398227bedf4303e",
+  "active": "9e358bd906878e71",
   "lastOpenFiles": [
+    "ПИСАТЬ СЮДА/Руководство по флексбоксам/align-content.md",
+    "ПИСАТЬ СЮДА/done/Свойства/Свойство flex-direction 2022-06-27.md",
+    "ПИСАТЬ СЮДА/done/Свойства/Свойство flex-basis 2022-06-27.md",
+    "ПИСАТЬ СЮДА/done/Bruh/Адаптивный макет на флексбоксах 2022-06-27.md",
     "ПИСАТЬ СЮДА/done/Bruh/Вложенные флекс-контейнеры 2022-06-27.md",
-    "шаблон для HTML CSS 2022-06-27.md",
-    "html/WEB/& Структура сайта 2021-08-25.md",
-    "html/WEB/CSS/main/& Разные типы селекторов 2021-08-25.md",
+    "ПИСАТЬ СЮДА/done/5) Выравнивание элементов форм.md",
     "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах 2022-06-27.md",
-    "html/WEB/CSS/Flex/FLEX MOC.md",
-    "html/WEB/CSS/Flex/Flex исползование 2022-06-26.md",
-    "html/WEB/CSS/Flex/flex 2022-06-24.md",
-    "html/WEB/CSS/OOP/Специфичность в CSS 2021-10-16.md",
-    "html/WEB/CSS/OOP/Каскад в CSS 2021-10-16.md"
+    "ПИСАТЬ СЮДА/Руководство по флексбоксам/flex-flow.md",
+    "шаблон для HTML CSS 2022-06-27.md",
+    "html/WEB/& Структура сайта 2021-08-25.md"
   ]
 }
