@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ПИСАТЬ СЮДА/Revu/Выравнивание элементов форм 2022-06-27.md",
+            "file": "ПИСАТЬ СЮДА/Revu/Направление флексбоксов.md",
             "mode": "source"
           }
         }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "шаблон для HTML CSS 2022-06-27.md",
+                "file": "ПИСАТЬ СЮДА/Revu/Направление флексбоксов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "шаблон для HTML CSS 2022-06-27.md",
+                "file": "ПИСАТЬ СЮДА/Revu/Направление флексбоксов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "шаблон для HTML CSS 2022-06-27.md"
+                "file": "ПИСАТЬ СЮДА/Revu/Направление флексбоксов.md"
               }
             }
           },
@@ -173,13 +173,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7ae0fe690121df03",
+  "active": "b997c4a1b1c19e70",
   "lastOpenFiles": [
+    "ПИСАТЬ СЮДА/Revu/Направление флексбоксов.md",
     "шаблон для HTML CSS 2022-06-27.md",
     "ПИСАТЬ СЮДА/Revu/Выравнивание элементов форм 2022-06-27.md",
     "Utility/other/Редактирование.md",
     "ПИСАТЬ СЮДА/done/Bruh/Адаптивный макет на флексбоксах 2022-06-27.md",
-    "ПИСАТЬ СЮДА/done/8) Направление флексбоксов.md",
     "ПИСАТЬ СЮДА/Revu/Макет сайта на флексбоксах 2022-06-27.md",
     "ПИСАТЬ СЮДА/Руководство по флексбоксам/flex-grow 2022-06-27.md",
     "ПИСАТЬ СЮДА/done/Свойства/Свойство flex-basis 2022-06-27.md",
