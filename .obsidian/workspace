@@ -4,36 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b997c4a1b1c19e70",
+        "id": "31e5b759009f7b3e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ПИСАТЬ СЮДА/Revu/Выравнивание элементов форм 2022-06-27.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "7ae0fe690121df03",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "шаблон для HTML CSS 2022-06-27.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "858fe570df7721b6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Utility/other/Редактирование.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -98,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "шаблон для HTML CSS 2022-06-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "шаблон для HTML CSS 2022-06-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "шаблон для HTML CSS 2022-06-27.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,17 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7ae0fe690121df03",
+  "active": "31e5b759009f7b3e",
   "lastOpenFiles": [
-    "шаблон для HTML CSS 2022-06-27.md",
-    "ПИСАТЬ СЮДА/Revu/Выравнивание элементов форм 2022-06-27.md",
-    "Utility/other/Редактирование.md",
-    "ПИСАТЬ СЮДА/done/Bruh/Адаптивный макет на флексбоксах 2022-06-27.md",
-    "ПИСАТЬ СЮДА/done/8) Направление флексбоксов.md",
-    "ПИСАТЬ СЮДА/Revu/Макет сайта на флексбоксах 2022-06-27.md",
+    "ПИСАТЬ СЮДА/Руководство по флексбоксам/place-content.md",
+    "ПИСАТЬ СЮДА/Руководство по флексбоксам/justify-content.md",
     "ПИСАТЬ СЮДА/Руководство по флексбоксам/flex-grow 2022-06-27.md",
-    "ПИСАТЬ СЮДА/done/Свойства/Свойство flex-basis 2022-06-27.md",
-    "ПИСАТЬ СЮДА/done/Свойства/Cвойство flex 2022-06-27.md",
-    "ПИСАТЬ СЮДА/Руководство по флексбоксам/flex-basis.md"
+    "ПИСАТЬ СЮДА/Руководство по флексбоксам/align-self.md",
+    "ПИСАТЬ СЮДА/Руководство по флексбоксам/align-items.md",
+    "ПИСАТЬ СЮДА/Руководство по флексбоксам/align-content.md",
+    "ПИСАТЬ СЮДА/done/6) Создание медиа-объектов.md",
+    "ПИСАТЬ СЮДА/done/7) Выравнивание с помощью флексбоксов.md",
+    "ПИСАТЬ СЮДА/done/8) Направление флексбоксов.md",
+    "ПИСАТЬ СЮДА/Руководство по флексбоксам/calc().md"
   ]
 }
