@@ -1,40 +1,32 @@
 {
   "main": {
-    "id": "4093f6a1d8133515",
+    "id": "5318aa9dc939bbd3",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "66db7b493a31469b",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-=======
-        "id": "daea921637df5353",
+        "id": "e398227bedf4303e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах.md",
-            "mode": "preview"
+            "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах 2022-06-27.md",
+            "mode": "source"
           }
->>>>>>> c21c9b491c1c3d5ac122bfd826bfd11b90971ec7
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "546aa735beae565e",
+    "id": "6fc6857f1ed910da",
     "type": "split",
     "children": [
       {
-        "id": "7a40632f14081b97",
+        "id": "15853d585eea9292",
         "type": "tabs",
         "children": [
           {
-            "id": "435468c88fbeeb0e",
+            "id": "39b0fa755a086bac",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -42,16 +34,12 @@
             }
           },
           {
-            "id": "486496447ccce44b",
+            "id": "d94d4298730b7264",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
                 "query": "",
-=======
-                "query": "before  и after 2021-10-16",
->>>>>>> c21c9b491c1c3d5ac122bfd826bfd11b90971ec7
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,22 +52,18 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 300
-=======
-    "width": 395
->>>>>>> c21c9b491c1c3d5ac122bfd826bfd11b90971ec7
+    "width": 386.5
   },
   "right": {
-    "id": "b55c150390028ada",
+    "id": "651f79c66cb79529",
     "type": "split",
     "children": [
       {
-        "id": "714cc7f44db93e6c",
+        "id": "bab9fbbc6373161e",
         "type": "tabs",
         "children": [
           {
-            "id": "72de51d3597153e7",
+            "id": "d240a2c2ab1d4fb6",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -87,15 +71,12 @@
             }
           },
           {
-            "id": "1d8b0939304d6790",
+            "id": "5439f713b2888a00",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах.md",
->>>>>>> c21c9b491c1c3d5ac122bfd826bfd11b90971ec7
+                "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах 2022-06-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,22 +88,19 @@
             }
           },
           {
-            "id": "17b2bcfc468d7815",
+            "id": "2d70b35ec610244b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах.md",
->>>>>>> c21c9b491c1c3d5ac122bfd826bfd11b90971ec7
+                "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах 2022-06-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "941057566eee2c28",
+            "id": "daf4616d9675a02b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,21 +111,17 @@
             }
           },
           {
-            "id": "f58fbbc30619208f",
+            "id": "f362587089a02cac",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
-              "state": {}
-=======
               "state": {
-                "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах.md"
+                "file": "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах 2022-06-27.md"
               }
->>>>>>> c21c9b491c1c3d5ac122bfd826bfd11b90971ec7
             }
           },
           {
-            "id": "64ac61323e63751f",
+            "id": "f433e1a476a1169d",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -155,7 +129,7 @@
             }
           },
           {
-            "id": "e6f3a2386edb1353",
+            "id": "d7e87be93dff96df",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -163,36 +137,31 @@
             }
           },
           {
-            "id": "ab593fa9ab046391",
+            "id": "794573bcd3b81ff7",
             "type": "leaf",
             "state": {
               "type": "todo",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "66db7b493a31469b",
-  "lastOpenFiles": []
-=======
-  "active": "daea921637df5353",
+  "active": "e398227bedf4303e",
   "lastOpenFiles": [
-    "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах.md",
-    "html/WEB/CSS/псевдоклассы/псевдокласс before 2022-06-27.md",
-    "html/WEB/CSS/псевдоклассы/псевдокласс after 2022-06-27.md",
-    "ПИСАТЬ СЮДА/Руководство по флексбоксам/align-content.md",
+    "ПИСАТЬ СЮДА/done/2) Макет сайта на флексбоксах 2022-06-27.md",
+    "html/WEB/CSS/свойства/позиционирование/Свойство z-index 2021-10-17.md",
+    "html/WEB/CSS/Flex/Flex исползование 2022-06-26.md",
+    "ПИСАТЬ СЮДА/done/3) Вложенные флекс-контейнеры.md",
+    "html/WEB/CSS/CSS MOC.md",
+    "Utility/other/Редактирование.md",
+    "Utility/other/Без названия123i.md",
+    "Utility/other/Tags.md",
     "Excalidraw/Drawing 2022-06-27 00.27.07.excalidraw.md",
-    "html/WEB/CSS/псевдоклассы/редактирование текста/first-letter 2021-10-16.md",
-    "html/WEB/CSS/псевдоклассы/редактирование текста/first-child 2021-10-16.md",
-    "html/WEB/CSS/псевдоклассы/псевдокласс nth-child 2021-10-07.md",
-    "html/WEB/CSS/псевдоклассы/Псевдокласс hover 2021-10-26.md",
-    "html/WEB/CSS/псевдоклассы/псевдокласс content 2022-06-27.md"
+    "шаблон для HTML CSS 2022-06-27.md"
   ]
->>>>>>> c21c9b491c1c3d5ac122bfd826bfd11b90971ec7
 }
