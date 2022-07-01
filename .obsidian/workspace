@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ПИСАТЬ СЮДА/JS/for.md",
-            "mode": "source"
+            "file": "js/comments 2022-01-16.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ПИСАТЬ СЮДА/JS/for.md",
+                "file": "js/comments 2022-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ПИСАТЬ СЮДА/JS/for.md",
+                "file": "js/comments 2022-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ПИСАТЬ СЮДА/JS/for.md"
+                "file": "js/comments 2022-01-16.md"
               }
             }
           },
@@ -153,15 +153,15 @@
   },
   "active": "d5e18b34d1604e33",
   "lastOpenFiles": [
-    "ПИСАТЬ СЮДА/JS/for.md",
-    "ПИСАТЬ СЮДА/JS/while.md",
-    "ПИСАТЬ СЮДА/JS/switch.md",
+    "js/comments 2022-01-16.md",
+    "ПИСАТЬ СЮДА/JS/Переменные/const.md",
+    "ПИСАТЬ СЮДА/JS/Шаблонные строки.md",
     "ПИСАТЬ СЮДА/JS/Условный (тернарный) оператор.md",
-    "ПИСАТЬ СЮДА/JS/if ... else.md",
+    "ПИСАТЬ СЮДА/JS/Строки.md",
     "ПИСАТЬ СЮДА/JS/Предикат.md",
+    "ПИСАТЬ СЮДА/JS/Назначение переменной.md",
     "ПИСАТЬ СЮДА/JS/Методы строк.md",
-    "ПИСАТЬ СЮДА/JS/typeof.md",
-    "ПИСАТЬ СЮДА/JS/typeof.md",
-    "ПИСАТЬ СЮДА/JS/undefined.md"
+    "ПИСАТЬ СЮДА/JS/Коменнтарии.md",
+    "ПИСАТЬ СЮДА/JS/Инструкции (Statements).md"
   ]
 }
