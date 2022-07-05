@@ -4,13 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fc2610fc09d0584a",
+        "id": "ed063e60b2e29b0a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ПИСАТЬ СЮДА/JS/while.md",
+<<<<<<< HEAD
+            "file": "ПИСАТЬ СЮДА/JS Edited/main/Переменные/var 2022-07-05.md",
             "mode": "preview"
+=======
+            "file": "ПИСАТЬ СЮДА/JS/Инструкции (Statements).md",
+            "mode": "source"
+>>>>>>> refs/remotes/origin/main
           }
         }
       }
@@ -39,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "typeof",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +81,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ПИСАТЬ СЮДА/JS/while.md",
+<<<<<<< HEAD
+                "file": "ПИСАТЬ СЮДА/JS Edited/main/Переменные/var 2022-07-05.md",
+=======
+                "file": "ПИСАТЬ СЮДА/JS/Инструкции (Statements).md",
+>>>>>>> refs/remotes/origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ПИСАТЬ СЮДА/JS/while.md",
+<<<<<<< HEAD
+                "file": "ПИСАТЬ СЮДА/JS Edited/main/Переменные/var 2022-07-05.md",
+=======
+                "file": "ПИСАТЬ СЮДА/JS/Инструкции (Statements).md",
+>>>>>>> refs/remotes/origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +129,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ПИСАТЬ СЮДА/JS/while.md"
+<<<<<<< HEAD
+                "file": "ПИСАТЬ СЮДА/JS Edited/main/Переменные/var 2022-07-05.md"
+=======
+                "file": "ПИСАТЬ СЮДА/JS/Инструкции (Statements).md"
+>>>>>>> refs/remotes/origin/main
               }
             }
           },
@@ -151,17 +168,30 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fc2610fc09d0584a",
+  "active": "ed063e60b2e29b0a",
   "lastOpenFiles": [
-    "ПИСАТЬ СЮДА/JS/while.md",
-    "ПИСАТЬ СЮДА/JS Edited/func/typeof.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/operators/js basis operators 2022-01-16.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/conditions(условия)/js switch 2022-01-16.md",
+<<<<<<< HEAD
+    "ПИСАТЬ СЮДА/JS Edited/main/Переменные/var 2022-07-05.md",
+    "ПИСАТЬ СЮДА/JS Edited/main/Переменные/let 2022-07-05.md",
+    "ПИСАТЬ СЮДА/JS Edited/main/Переменные/const 2022-07-05.md",
+    "ПИСАТЬ СЮДА/JS Edited/spec symbols 2022-01-20.md",
+    "ПИСАТЬ СЮДА/JS Edited/main/types/Деструктурирующее присваивание 2022-01-23.md",
     "ПИСАТЬ СЮДА/JS Edited/main/types/variables types 2022-01-16.md",
-    "ПИСАТЬ СЮДА/JS/switch.md",
-    "ПИСАТЬ СЮДА/JS/NaN.md",
     "ПИСАТЬ СЮДА/JS Edited/main/types/variable 2022-01-16.md",
-    "ПИСАТЬ СЮДА/JS/null !!.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/conditions(условия)/js if 2022-01-16.md"
+    "ПИСАТЬ СЮДА/JS Edited/JS MOC.md",
+    "ПИСАТЬ СЮДА/JS Edited/constructors/js constructors 2022-01-20.md",
+    "ПИСАТЬ СЮДА/JS Edited/constructors/js Формат JSON, метод toJSON 2022-01-27.md"
+=======
+    "ПИСАТЬ СЮДА/JS/Инструкции (Statements).md",
+    "ПИСАТЬ СЮДА/JS Edited/main/js basis operators 2022-01-16.md",
+    "ПИСАТЬ СЮДА/JS Edited/main/js logic operators 2022-01-16.md",
+    "ПИСАТЬ СЮДА/JS Edited/main/types/js Преобразование объектов в примитивы 2022-01-20.md",
+    "ПИСАТЬ СЮДА/JS Edited/main/types/variable 2022-01-16.md",
+    "ПИСАТЬ СЮДА/JS Edited/main/types/variables types 2022-01-16.md",
+    "ПИСАТЬ СЮДА/JS Edited/main/Перебираемые объекты js 2022-01-21.md",
+    "ПИСАТЬ СЮДА/JS Edited/Переменные/var.md",
+    "ПИСАТЬ СЮДА/JS Edited/Переменные/let.md",
+    "ПИСАТЬ СЮДА/JS Edited/Переменные/const.md"
+>>>>>>> refs/remotes/origin/main
   ]
 }
