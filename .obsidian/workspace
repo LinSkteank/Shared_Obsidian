@@ -4,18 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ed063e60b2e29b0a",
+        "id": "060e84316535bdc4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "ПИСАТЬ СЮДА/JS Edited/main/Переменные/var 2022-07-05.md",
-            "mode": "preview"
-=======
-            "file": "ПИСАТЬ СЮДА/JS/Инструкции (Statements).md",
+            "file": "ПИСАТЬ СЮДА/JS Edited/main/types/js Преобразование объектов в примитивы 2022-01-20.md",
             "mode": "source"
->>>>>>> refs/remotes/origin/main
           }
         }
       }
@@ -44,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "new",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 453.5
   },
   "right": {
     "id": "b55c150390028ada",
@@ -81,11 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "ПИСАТЬ СЮДА/JS Edited/main/Переменные/var 2022-07-05.md",
-=======
-                "file": "ПИСАТЬ СЮДА/JS/Инструкции (Statements).md",
->>>>>>> refs/remotes/origin/main
+                "file": "ПИСАТЬ СЮДА/JS Edited/main/types/js Преобразование объектов в примитивы 2022-01-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,11 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "ПИСАТЬ СЮДА/JS Edited/main/Переменные/var 2022-07-05.md",
-=======
-                "file": "ПИСАТЬ СЮДА/JS/Инструкции (Statements).md",
->>>>>>> refs/remotes/origin/main
+                "file": "ПИСАТЬ СЮДА/JS Edited/main/types/js Преобразование объектов в примитивы 2022-01-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,11 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "ПИСАТЬ СЮДА/JS Edited/main/Переменные/var 2022-07-05.md"
-=======
-                "file": "ПИСАТЬ СЮДА/JS/Инструкции (Statements).md"
->>>>>>> refs/remotes/origin/main
+                "file": "ПИСАТЬ СЮДА/JS Edited/main/types/js Преобразование объектов в примитивы 2022-01-20.md"
               }
             }
           },
@@ -168,30 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ed063e60b2e29b0a",
+  "active": "060e84316535bdc4",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "ПИСАТЬ СЮДА/JS Edited/main/Переменные/var 2022-07-05.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/Переменные/let 2022-07-05.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/Переменные/const 2022-07-05.md",
-    "ПИСАТЬ СЮДА/JS Edited/spec symbols 2022-01-20.md",
+    "ПИСАТЬ СЮДА/JS Edited/main/types/js Преобразование объектов в примитивы 2022-01-20.md",
     "ПИСАТЬ СЮДА/JS Edited/main/types/Деструктурирующее присваивание 2022-01-23.md",
     "ПИСАТЬ СЮДА/JS Edited/main/types/variables types 2022-01-16.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/types/variable 2022-01-16.md",
-    "ПИСАТЬ СЮДА/JS Edited/JS MOC.md",
+    "ПИСАТЬ СЮДА/JS Edited/constructors/Дата и время 2022-01-23.md",
+    "ПИСАТЬ СЮДА/JS Edited/constructors/js Формат JSON, метод toJSON 2022-01-27.md",
     "ПИСАТЬ СЮДА/JS Edited/constructors/js constructors 2022-01-20.md",
-    "ПИСАТЬ СЮДА/JS Edited/constructors/js Формат JSON, метод toJSON 2022-01-27.md"
-=======
-    "ПИСАТЬ СЮДА/JS/Инструкции (Statements).md",
-    "ПИСАТЬ СЮДА/JS Edited/main/js basis operators 2022-01-16.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/js logic operators 2022-01-16.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/types/js Преобразование объектов в примитивы 2022-01-20.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/types/variable 2022-01-16.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/types/variables types 2022-01-16.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/Перебираемые объекты js 2022-01-21.md",
-    "ПИСАТЬ СЮДА/JS Edited/Переменные/var.md",
-    "ПИСАТЬ СЮДА/JS Edited/Переменные/let.md",
-    "ПИСАТЬ СЮДА/JS Edited/Переменные/const.md"
->>>>>>> refs/remotes/origin/main
+    "html/WEB/HTML/structure html/кодировка страницы 2021-09-05.md",
+    "html/WEB/HTML/structure html/& структура html 2021-08-25.md",
+    "html/WEB/HTML/structure html/Символы-мнемоники в HTML 2021-09-05.md",
+    "html/WEB/HTML/Теги.md"
   ]
 }
