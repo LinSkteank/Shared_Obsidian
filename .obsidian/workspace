@@ -4,13 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "060e84316535bdc4",
+        "id": "d5e18b34d1604e33",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ПИСАТЬ СЮДА/JS Edited/main/Перебираемые объекты js 2022-01-21.md",
+            "file": "ПИСАТЬ СЮДА/JS Edited/main/js basis operators 2022-01-16.md",
             "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "ed063e60b2e29b0a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ПИСАТЬ СЮДА/JS/Инструкции (Statements).md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "new",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ПИСАТЬ СЮДА/JS Edited/main/Перебираемые объекты js 2022-01-21.md",
+                "file": "ПИСАТЬ СЮДА/JS Edited/main/js basis operators 2022-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ПИСАТЬ СЮДА/JS Edited/main/Перебираемые объекты js 2022-01-21.md",
+                "file": "ПИСАТЬ СЮДА/JS Edited/main/js basis operators 2022-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ПИСАТЬ СЮДА/JS Edited/main/Перебираемые объекты js 2022-01-21.md"
+                "file": "ПИСАТЬ СЮДА/JS Edited/main/js basis operators 2022-01-16.md"
               }
             }
           },
@@ -151,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "060e84316535bdc4",
+  "active": "d5e18b34d1604e33",
   "lastOpenFiles": [
-    "ПИСАТЬ СЮДА/JS Edited/main/Перебираемые объекты js 2022-01-21.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/замыкания 2022-02-08.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/Деструктурирующее присваивание 2022-01-23.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/Дата и время 2022-01-23.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/js Формат JSON, метод toJSON 2022-01-27.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/js switch 2022-01-16.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/js loops 2022-01-16.md",
+    "ПИСАТЬ СЮДА/JS Edited/main/js basis operators 2022-01-16.md",
+    "ПИСАТЬ СЮДА/JS/Инструкции (Statements).md",
     "ПИСАТЬ СЮДА/JS Edited/main/js logic operators 2022-01-16.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/js if 2022-01-16.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/js funq 2022-01-18.md"
+    "ПИСАТЬ СЮДА/JS Edited/main/types/js Преобразование объектов в примитивы 2022-01-20.md",
+    "ПИСАТЬ СЮДА/JS Edited/main/types/variable 2022-01-16.md",
+    "ПИСАТЬ СЮДА/JS Edited/main/types/variables types 2022-01-16.md",
+    "ПИСАТЬ СЮДА/JS Edited/main/Перебираемые объекты js 2022-01-21.md",
+    "ПИСАТЬ СЮДА/JS Edited/Переменные/var.md",
+    "ПИСАТЬ СЮДА/JS Edited/Переменные/let.md",
+    "ПИСАТЬ СЮДА/JS Edited/Переменные/const.md"
   ]
 }
