@@ -7,13 +7,13 @@ aliases:
 
 
 
-# Title: **[[PackageJson 2021-10-16]]**
+# Title: **[[programs/Node js/PackageJson 2021-10-16]]**
 
 
 ## Metadata:
 
 - `Type:` [[&]]
-- `Links:` [[Npm 2021-10-16|Пакетный менеджер npm]], [[Версии 2021-10-16|Версии пакетов npm]]
+- `Links:` [[programs/Node js/Npm 2021-10-16|Пакетный менеджер npm]], [[programs/Node js/Версии 2021-10-16|Версии пакетов npm]]
 - `Author:` 
 	- `Notable Authors:` 
 - `Keywords:` Node js, npm, зависисмости, пакеты, версии, проект.

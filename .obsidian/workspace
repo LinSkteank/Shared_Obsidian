@@ -9,13 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "js/main/js loops 2022-01-16.md",
+            "file": "ПИСАТЬ СЮДА/JS Edited/main/Перебираемые объекты js 2022-01-21.md",
             "mode": "preview"
-=======
-            "file": "ПИСАТЬ СЮДА/JS Edited/main/js funq 2022-01-18.md",
-            "mode": "source"
->>>>>>> refs/remotes/origin/main
           }
         }
       }
@@ -44,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "new",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,11 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "js/main/js loops 2022-01-16.md",
-=======
-                "file": "ПИСАТЬ СЮДА/JS Edited/main/js funq 2022-01-18.md",
->>>>>>> refs/remotes/origin/main
+                "file": "ПИСАТЬ СЮДА/JS Edited/main/Перебираемые объекты js 2022-01-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,11 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "js/main/js loops 2022-01-16.md",
-=======
-                "file": "ПИСАТЬ СЮДА/JS Edited/main/js funq 2022-01-18.md",
->>>>>>> refs/remotes/origin/main
+                "file": "ПИСАТЬ СЮДА/JS Edited/main/Перебираемые объекты js 2022-01-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,11 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "js/main/js loops 2022-01-16.md"
-=======
-                "file": "ПИСАТЬ СЮДА/JS Edited/main/js funq 2022-01-18.md"
->>>>>>> refs/remotes/origin/main
+                "file": "ПИСАТЬ СЮДА/JS Edited/main/Перебираемые объекты js 2022-01-21.md"
               }
             }
           },
@@ -170,28 +153,15 @@
   },
   "active": "060e84316535bdc4",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "js/main/js loops 2022-01-16.md",
-    "Untitled.md",
-    "js/comments 2022-01-16.md",
-    "js/spec symbols 2022-01-20.md",
-    "js/JavaScript 2022-01-16.md",
-    "ПИСАТЬ СЮДА/JS/Переменные/const.md",
-    "ПИСАТЬ СЮДА/JS/Шаблонные строки.md",
-    "ПИСАТЬ СЮДА/JS/Условный (тернарный) оператор.md",
-    "ПИСАТЬ СЮДА/JS/Строки.md",
-    "ПИСАТЬ СЮДА/JS/Предикат.md"
-=======
-    "ПИСАТЬ СЮДА/JS Edited/main/js funq 2022-01-18.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/js basis operators 2022-01-16.md",
-    "ПИСАТЬ СЮДА/JS/Арифметические операции.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/js Формат JSON, метод toJSON 2022-01-27.md",
     "ПИСАТЬ СЮДА/JS Edited/main/Перебираемые объекты js 2022-01-21.md",
     "ПИСАТЬ СЮДА/JS Edited/main/замыкания 2022-02-08.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/types/variable 2022-01-16.md",
     "ПИСАТЬ СЮДА/JS Edited/main/Деструктурирующее присваивание 2022-01-23.md",
     "ПИСАТЬ СЮДА/JS Edited/main/Дата и время 2022-01-23.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/types/variables types 2022-01-16.md"
->>>>>>> refs/remotes/origin/main
+    "ПИСАТЬ СЮДА/JS Edited/main/js Формат JSON, метод toJSON 2022-01-27.md",
+    "ПИСАТЬ СЮДА/JS Edited/main/js switch 2022-01-16.md",
+    "ПИСАТЬ СЮДА/JS Edited/main/js loops 2022-01-16.md",
+    "ПИСАТЬ СЮДА/JS Edited/main/js logic operators 2022-01-16.md",
+    "ПИСАТЬ СЮДА/JS Edited/main/js if 2022-01-16.md",
+    "ПИСАТЬ СЮДА/JS Edited/main/js funq 2022-01-18.md"
   ]
 }
