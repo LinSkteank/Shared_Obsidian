@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ed063e60b2e29b0a",
+        "id": "fc2610fc09d0584a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ПИСАТЬ СЮДА/JS/Инструкции (Statements).md",
-            "mode": "source"
+            "file": "ПИСАТЬ СЮДА/JS/while.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "typeof",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ПИСАТЬ СЮДА/JS/Инструкции (Statements).md",
+                "file": "ПИСАТЬ СЮДА/JS/while.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ПИСАТЬ СЮДА/JS/Инструкции (Statements).md",
+                "file": "ПИСАТЬ СЮДА/JS/while.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ПИСАТЬ СЮДА/JS/Инструкции (Statements).md"
+                "file": "ПИСАТЬ СЮДА/JS/while.md"
               }
             }
           },
@@ -151,17 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ed063e60b2e29b0a",
+  "active": "fc2610fc09d0584a",
   "lastOpenFiles": [
-    "ПИСАТЬ СЮДА/JS/Инструкции (Statements).md",
-    "ПИСАТЬ СЮДА/JS Edited/main/js basis operators 2022-01-16.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/js logic operators 2022-01-16.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/types/js Преобразование объектов в примитивы 2022-01-20.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/types/variable 2022-01-16.md",
+    "ПИСАТЬ СЮДА/JS/while.md",
+    "ПИСАТЬ СЮДА/JS Edited/func/typeof.md",
+    "ПИСАТЬ СЮДА/JS Edited/main/operators/js basis operators 2022-01-16.md",
+    "ПИСАТЬ СЮДА/JS Edited/main/conditions(условия)/js switch 2022-01-16.md",
     "ПИСАТЬ СЮДА/JS Edited/main/types/variables types 2022-01-16.md",
-    "ПИСАТЬ СЮДА/JS Edited/main/Перебираемые объекты js 2022-01-21.md",
-    "ПИСАТЬ СЮДА/JS Edited/Переменные/var.md",
-    "ПИСАТЬ СЮДА/JS Edited/Переменные/let.md",
-    "ПИСАТЬ СЮДА/JS Edited/Переменные/const.md"
+    "ПИСАТЬ СЮДА/JS/switch.md",
+    "ПИСАТЬ СЮДА/JS/NaN.md",
+    "ПИСАТЬ СЮДА/JS Edited/main/types/variable 2022-01-16.md",
+    "ПИСАТЬ СЮДА/JS/null !!.md",
+    "ПИСАТЬ СЮДА/JS Edited/main/conditions(условия)/js if 2022-01-16.md"
   ]
 }
