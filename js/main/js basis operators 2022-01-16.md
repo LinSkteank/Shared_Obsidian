@@ -7,7 +7,7 @@ cssclass:
 ---
 
 
-# Title: **[[js basis operators 2022-01-16]]**
+# Title: **[[js/main/js basis operators 2022-01-16]]**
 
 
 ## Metadata:

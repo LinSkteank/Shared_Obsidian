@@ -6,7 +6,7 @@ aliases:
 cssclass: 
 ---
 
-# Title: **[[js logic operators 2022-01-16]]**
+# Title: **[[js/main/js logic operators 2022-01-16]]**
 
 ## Metadata:
 
