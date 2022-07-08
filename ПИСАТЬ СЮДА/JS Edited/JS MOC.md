@@ -258,7 +258,7 @@ cssclass:
 
 	- [[js loops 2022-01-16#Переход к следующей итерации continue https learn javascript ru while-for continue|Переход к следующей итерации continue]]
 
-	- [[js loops 2022-01-16#Метки для break continue https learn javascript ru while-for metki-dlya-break-continueМетки для break/continue]]
+	- [[js loops 2022-01-16#Метки для break continue https learn javascript ru while-for metki-dlya-break-continue|Метки для break/continue]]
 
 [[js switch 2022-01-16|js switch]]
 
